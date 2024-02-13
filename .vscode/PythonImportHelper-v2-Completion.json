@@ -1,0 +1,2347 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime;",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date;",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time;",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime;",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime;",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date;",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "colorama;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "colorama;",
+        "description": "colorama;",
+        "detail": "colorama;",
+        "documentation": {}
+    },
+    {
+        "label": "Televisao;",
+        "importPath": "Televisao",
+        "description": "Televisao",
+        "isExtraImport": true,
+        "detail": "Televisao",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod;",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod;",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod;",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "colorama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "colorama",
+        "description": "colorama",
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "conta_bancaria",
+        "description": "conta_bancaria",
+        "isExtraImport": true,
+        "detail": "conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "abrigo_db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "abrigo_db",
+        "description": "abrigo_db",
+        "detail": "abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "estacionamento",
+        "description": "estacionamento",
+        "isExtraImport": true,
+        "detail": "estacionamento",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "modulo;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "modulo;",
+        "description": "modulo;",
+        "detail": "modulo;",
+        "documentation": {}
+    },
+    {
+        "label": "name_user",
+        "importPath": "funcoes_log",
+        "description": "funcoes_log",
+        "isExtraImport": true,
+        "detail": "funcoes_log",
+        "documentation": {}
+    },
+    {
+        "label": "imprimir_frase;",
+        "importPath": "funcoes_log",
+        "description": "funcoes_log",
+        "isExtraImport": true,
+        "detail": "funcoes_log",
+        "documentation": {}
+    },
+    {
+        "label": "*;",
+        "importPath": "funcoes_log",
+        "description": "funcoes_log",
+        "isExtraImport": true,
+        "detail": "funcoes_log",
+        "documentation": {}
+    },
+    {
+        "label": "funcoes_log;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "funcoes_log;",
+        "description": "funcoes_log;",
+        "detail": "funcoes_log;",
+        "documentation": {}
+    },
+    {
+        "label": "funcoes_cores;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "funcoes_cores;",
+        "description": "funcoes_cores;",
+        "detail": "funcoes_cores;",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3;",
+        "description": "sqlite3;",
+        "detail": "sqlite3;",
+        "documentation": {}
+    },
+    {
+        "label": "Pesso",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "class Pessoa :\n    def __init__(self, id, nome, telefone, endereco):\n        self._id= id;\n        self._nome = nome;\n        self._telefone = telefone;\n        self._endereco = endereco;\n        @property\n        def id(self):\n            return self._id;\n        @property",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "class Cliente(Pessoa):\n    def __init__(self, id, nome, telefone, endereco):\n        super().__init__(id, nome, telefone, endereco)\n         #Método para exibir informações do cliente\n    def __str__(self):\n        return f'Cliente: {self._nome}\\nTelefone: {self._telefone}\\nEndereço: {self._endereco}'\nclass Mercado():\n    def __init__(self):\n        self.__lista_clientes = [];\n        self.lista_produtos = [];",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "Mercado",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "class Mercado():\n    def __init__(self):\n        self.__lista_clientes = [];\n        self.lista_produtos = [];\n        self.__lista_transacoes = [];\n    @property \n    def lista_transacoes(self):\n        return self.__lista_transacoes;\n    def vender_produto(self, produto, cliente, quantidade):\n        if quantidade > produto.quantidade_produtos:",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "class Produto:\n    def __init__(self, id_produto, nome_produto, quantidade_produtos):\n        self.id_produto = id_produto;\n        self.nome = nome_produto\n        self.categoria = []\n        self._quantidade_produtos = quantidade_produtos;\n        self.fornecedores =[]\n    def adicionar_fornecedor(self, fornecedor):\n        self.fornecedores.append(fornecedor);\n    def adicionar_categoria(self, categoria):",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "Transacao",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "class Transacao:\n    def __init__(self, id_cliente, nome_cliente, produtos, quantidade):\n        self._id_cliente = id_cliente;\n        self._nome_cliente = nome_cliente;\n        self._produtos = produtos\n        self._quantidade = quantidade\n        self.data_da_compra = datetime.now();\n    def __str__(self):\n        data_formatada = self.data_da_compra.strftime('%d %m %Y %H:%M');\n        return (f'ID: {self._id_cliente}\\n'",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "mercado",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "mercado = Mercado();\ncliente1 = Cliente(1,\"Clarice\", 87879494, \"Campina Grande\")\nmercado.adicionar_cliente(cliente1);\nproduto1 = Produto(1,\"Arroz\",50);\nproduto1.adicionar_categoria(\"Carboidratos\");\nproduto1.adicionar_fornecedor(\"Comercial Norte Distribuição\")\nmercado.adicionar_produto(produto1);\nproduto2 = Produto(2,\"Feijão\",10);\nproduto2.adicionar_categoria(\"Proteina\");\nproduto2.adicionar_fornecedor(\"Comercial Norte Distribuição\")",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "cliente1",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "cliente1 = Cliente(1,\"Clarice\", 87879494, \"Campina Grande\")\nmercado.adicionar_cliente(cliente1);\nproduto1 = Produto(1,\"Arroz\",50);\nproduto1.adicionar_categoria(\"Carboidratos\");\nproduto1.adicionar_fornecedor(\"Comercial Norte Distribuição\")\nmercado.adicionar_produto(produto1);\nproduto2 = Produto(2,\"Feijão\",10);\nproduto2.adicionar_categoria(\"Proteina\");\nproduto2.adicionar_fornecedor(\"Comercial Norte Distribuição\")\nmercado.adicionar_produto(produto2);",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "produto1",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "produto1 = Produto(1,\"Arroz\",50);\nproduto1.adicionar_categoria(\"Carboidratos\");\nproduto1.adicionar_fornecedor(\"Comercial Norte Distribuição\")\nmercado.adicionar_produto(produto1);\nproduto2 = Produto(2,\"Feijão\",10);\nproduto2.adicionar_categoria(\"Proteina\");\nproduto2.adicionar_fornecedor(\"Comercial Norte Distribuição\")\nmercado.adicionar_produto(produto2);\nmercado.vender_produto(produto1, cliente1, 10);\nmercado.vender_produto(produto2, cliente1, 5);",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "produto2",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.mercado",
+        "description": "Desafio-POO.Biblioteca.mercado",
+        "peekOfCode": "produto2 = Produto(2,\"Feijão\",10);\nproduto2.adicionar_categoria(\"Proteina\");\nproduto2.adicionar_fornecedor(\"Comercial Norte Distribuição\")\nmercado.adicionar_produto(produto2);\nmercado.vender_produto(produto1, cliente1, 10);\nmercado.vender_produto(produto2, cliente1, 5);\nmercado.vender_produto(produto2, cliente1, 10);\n#estoque do produto apos compras do cliente\nprint(f'Estoque do produto\\n {produto1}');\nprint(f'Estoque do produto\\n {produto2}');",
+        "detail": "Desafio-POO.Biblioteca.mercado",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.teste",
+        "description": "Desafio-POO.Biblioteca.teste",
+        "peekOfCode": "class Usuario:\n    def __init__(self, nome, telefone, nacionalidade):\n        self.__nome = nome\n        self.__telefone = telefone\n        self.__nacionalidade = nacionalidade\n    @property\n    def nome(self):\n        return self.__nome\n    @nome.setter\n    def nome(self, novo_nome):",
+        "detail": "Desafio-POO.Biblioteca.teste",
+        "documentation": {}
+    },
+    {
+        "label": "Livro",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.teste",
+        "description": "Desafio-POO.Biblioteca.teste",
+        "peekOfCode": "class Livro:\n    def __init__(self, titulo, editora, numero_maximo_renovacoes):\n        self.titulo = titulo\n        self.editora = editora\n        self.generos = [];\n        self.numero_maximo_renovacoes = numero_maximo_renovacoes\n        self.autores = []\n        self.exemplares = []\n    def adicionar_autor(self, autor):\n        self.autores.append(autor)",
+        "detail": "Desafio-POO.Biblioteca.teste",
+        "documentation": {}
+    },
+    {
+        "label": "Exemplar",
+        "kind": 6,
+        "importPath": "Desafio-POO.Biblioteca.teste",
+        "description": "Desafio-POO.Biblioteca.teste",
+        "peekOfCode": "class Exemplar:\n    def __init__(self, livro):\n        self.__livro = livro\n        self.__estado = \"disponivel\"\n        self.__data_emprestimo = None\n        self.__data_devolucao = None\n        self.__renovacoes = 0\n    @property\n    def livro(self):\n        return self.__livro",
+        "detail": "Desafio-POO.Biblioteca.teste",
+        "documentation": {}
+    },
+    {
+        "label": "usuario",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.teste",
+        "description": "Desafio-POO.Biblioteca.teste",
+        "peekOfCode": "usuario = Usuario(\" Juliana\", \"84237428\", \"Brasileiro\")\nusuario.nome=\"Carol\";\nprint(usuario.nome)\nlivro = Livro(\"Livro 1\", \"Editora A\", 5)\nlivro.adicionar_autor('JK Rolling')\nlivro.adicionar_genero('Ficçao')\nlivro.adicionar_exemplar(livro)\nlivro.adicionar_exemplar(livro)\nprint(livro)\nexemplar = Exemplar(livro)",
+        "detail": "Desafio-POO.Biblioteca.teste",
+        "documentation": {}
+    },
+    {
+        "label": "livro",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.teste",
+        "description": "Desafio-POO.Biblioteca.teste",
+        "peekOfCode": "livro = Livro(\"Livro 1\", \"Editora A\", 5)\nlivro.adicionar_autor('JK Rolling')\nlivro.adicionar_genero('Ficçao')\nlivro.adicionar_exemplar(livro)\nlivro.adicionar_exemplar(livro)\nprint(livro)\nexemplar = Exemplar(livro)\nprint(exemplar.renovar());\nprint(exemplar.livro.titulo);",
+        "detail": "Desafio-POO.Biblioteca.teste",
+        "documentation": {}
+    },
+    {
+        "label": "exemplar",
+        "kind": 5,
+        "importPath": "Desafio-POO.Biblioteca.teste",
+        "description": "Desafio-POO.Biblioteca.teste",
+        "peekOfCode": "exemplar = Exemplar(livro)\nprint(exemplar.renovar());\nprint(exemplar.livro.titulo);",
+        "detail": "Desafio-POO.Biblioteca.teste",
+        "documentation": {}
+    },
+    {
+        "label": "saudacao",
+        "kind": 2,
+        "importPath": "fundamentos.argumentos_comuns_palavra_chave",
+        "description": "fundamentos.argumentos_comuns_palavra_chave",
+        "peekOfCode": "def saudacao(nome, **opcoes):\n    if 'saudacao_personalizada' in opcoes:\n        print(opcoes['saudacao_personalizada'], nome + '!')\n    else:\n        print('Olá, ' + nome + '!')\n# Exemplo de uso\nsaudacao('Maria')\nsaudacao('João', saudacao_personalizada='E aí')\n''' nome é um argumento comum, pois é passado diretamente sem especificar o nome do parâmetro.\n**opcoes é um argumento de palavra-chave variável. O uso de ** permite que você passe ",
+        "detail": "fundamentos.argumentos_comuns_palavra_chave",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 5,
+        "importPath": "fundamentos.condicionais",
+        "description": "fundamentos.condicionais",
+        "peekOfCode": "numero = int(input('Digite um número: '));\nif numero>0:\n    print('Numero é positivo');\nelse:\n    print('Numero é negativo!');",
+        "detail": "fundamentos.condicionais",
+        "documentation": {}
+    },
+    {
+        "label": "dicionario",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "dicionario = {'Chave':'Valor'};\ndicionario['maca'] = 'É uma fruta';\ndicionario['carro'] = 'É um véiculo';\ndicionario['Gato'] = 'É um animal';\nprint(dicionario);\n# O método keys () retorna uma visão de todas as chaves no dicionario\nlivros = {'Harry Potter e a Pedra Filosofal':'J. K. Rowling',\n          'O Senhor dos Anéis':'J.R.R. Tolkien',\n          'Aventuras de Sherlock Holmes':'Arthur Conan Doyle'}\n# Acessando as chaves (titulos dos livros)",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "dicionario['maca']",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "dicionario['maca'] = 'É uma fruta';\ndicionario['carro'] = 'É um véiculo';\ndicionario['Gato'] = 'É um animal';\nprint(dicionario);\n# O método keys () retorna uma visão de todas as chaves no dicionario\nlivros = {'Harry Potter e a Pedra Filosofal':'J. K. Rowling',\n          'O Senhor dos Anéis':'J.R.R. Tolkien',\n          'Aventuras de Sherlock Holmes':'Arthur Conan Doyle'}\n# Acessando as chaves (titulos dos livros)\ntitulos = livros.keys()",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "dicionario['carro']",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "dicionario['carro'] = 'É um véiculo';\ndicionario['Gato'] = 'É um animal';\nprint(dicionario);\n# O método keys () retorna uma visão de todas as chaves no dicionario\nlivros = {'Harry Potter e a Pedra Filosofal':'J. K. Rowling',\n          'O Senhor dos Anéis':'J.R.R. Tolkien',\n          'Aventuras de Sherlock Holmes':'Arthur Conan Doyle'}\n# Acessando as chaves (titulos dos livros)\ntitulos = livros.keys()\n# Convertendo para lista",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "dicionario['Gato']",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "dicionario['Gato'] = 'É um animal';\nprint(dicionario);\n# O método keys () retorna uma visão de todas as chaves no dicionario\nlivros = {'Harry Potter e a Pedra Filosofal':'J. K. Rowling',\n          'O Senhor dos Anéis':'J.R.R. Tolkien',\n          'Aventuras de Sherlock Holmes':'Arthur Conan Doyle'}\n# Acessando as chaves (titulos dos livros)\ntitulos = livros.keys()\n# Convertendo para lista\nlista_titulos = list(titulos);",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "livros",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "livros = {'Harry Potter e a Pedra Filosofal':'J. K. Rowling',\n          'O Senhor dos Anéis':'J.R.R. Tolkien',\n          'Aventuras de Sherlock Holmes':'Arthur Conan Doyle'}\n# Acessando as chaves (titulos dos livros)\ntitulos = livros.keys()\n# Convertendo para lista\nlista_titulos = list(titulos);\nprint(lista_titulos);\n# Método get permite recuperar um valor associado a chave\ncontatos = {",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "titulos",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "titulos = livros.keys()\n# Convertendo para lista\nlista_titulos = list(titulos);\nprint(lista_titulos);\n# Método get permite recuperar um valor associado a chave\ncontatos = {\n    'Alice': '123-456-7890',\n    'Bob': '987-654-3210',\n    'Charlie': '555-123-4567',\n}",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "lista_titulos",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "lista_titulos = list(titulos);\nprint(lista_titulos);\n# Método get permite recuperar um valor associado a chave\ncontatos = {\n    'Alice': '123-456-7890',\n    'Bob': '987-654-3210',\n    'Charlie': '555-123-4567',\n}\n# Pedindo ao usuário para digitar um nome\nnome_pesquisado = input(\"Digite o nome para encontrar o número de telefone: \")",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "contatos",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "contatos = {\n    'Alice': '123-456-7890',\n    'Bob': '987-654-3210',\n    'Charlie': '555-123-4567',\n}\n# Pedindo ao usuário para digitar um nome\nnome_pesquisado = input(\"Digite o nome para encontrar o número de telefone: \")\n# Usando o método get() para recuperar o número de telefone\nnumero_telefone = contatos.get(nome_pesquisado)\n# Verificando se o nome está no dicionário e exibindo o resultado",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "nome_pesquisado",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "nome_pesquisado = input(\"Digite o nome para encontrar o número de telefone: \")\n# Usando o método get() para recuperar o número de telefone\nnumero_telefone = contatos.get(nome_pesquisado)\n# Verificando se o nome está no dicionário e exibindo o resultado\nif numero_telefone:\n    print(f\"O número de telefone de {nome_pesquisado} é {numero_telefone}.\")\nelse:\n    print(f\"Desculpe, o nome {nome_pesquisado} não foi encontrado nos contatos.\")\n# Para remover uma chave de um dicionario utiliza-se o método pop()\nalunos = {",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "numero_telefone",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "numero_telefone = contatos.get(nome_pesquisado)\n# Verificando se o nome está no dicionário e exibindo o resultado\nif numero_telefone:\n    print(f\"O número de telefone de {nome_pesquisado} é {numero_telefone}.\")\nelse:\n    print(f\"Desculpe, o nome {nome_pesquisado} não foi encontrado nos contatos.\")\n# Para remover uma chave de um dicionario utiliza-se o método pop()\nalunos = {\n    101:'Alice',\n    102:'Joaquim',",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "alunos",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "alunos = {\n    101:'Alice',\n    102:'Joaquim',\n    103:'Mateus',\n    104:'Claudia'\n}\nprint(f'Alunos antes da remoção {alunos}');\nid_aluno = int (input(\"Digite o código do aluno a ser removido: \"));\nnome_aluno_removido = alunos.pop(id_aluno, None);\nif nome_aluno_removido is not None:",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "id_aluno",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "id_aluno = int (input(\"Digite o código do aluno a ser removido: \"));\nnome_aluno_removido = alunos.pop(id_aluno, None);\nif nome_aluno_removido is not None:\n    print(f'Aluno removido com sucesso: {nome_aluno_removido}');\nelse:\n    print(f'Desculpe , aluno com código {id_aluno} não foi encontrado');\nprint(f'Alunos após a remoção:{alunos}');",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "nome_aluno_removido",
+        "kind": 5,
+        "importPath": "fundamentos.dicionarios",
+        "description": "fundamentos.dicionarios",
+        "peekOfCode": "nome_aluno_removido = alunos.pop(id_aluno, None);\nif nome_aluno_removido is not None:\n    print(f'Aluno removido com sucesso: {nome_aluno_removido}');\nelse:\n    print(f'Desculpe , aluno com código {id_aluno} não foi encontrado');\nprint(f'Alunos após a remoção:{alunos}');",
+        "detail": "fundamentos.dicionarios",
+        "documentation": {}
+    },
+    {
+        "label": "frutas",
+        "kind": 5,
+        "importPath": "fundamentos.estrutura_repeticao",
+        "description": "fundamentos.estrutura_repeticao",
+        "peekOfCode": "frutas = [ 'Maça','Banana','Uva'];\nfor fruta in frutas:\n    print(fruta);",
+        "detail": "fundamentos.estrutura_repeticao",
+        "documentation": {}
+    },
+    {
+        "label": "numero1",
+        "kind": 5,
+        "importPath": "fundamentos.format",
+        "description": "fundamentos.format",
+        "peekOfCode": "numero1 = int(input('Digite o primeiro número: '));\nnumero2 = int (input('Digite o segundo número: '));\nsoma = numero1+numero2;\nprint(f'A soma dos números digitados é {soma}');\nvalor = 45.345789;\nprint(f'{valor:.2f}');\nprint('Olá {}, você tem {} anos'.format('Carolina',25));",
+        "detail": "fundamentos.format",
+        "documentation": {}
+    },
+    {
+        "label": "numero2",
+        "kind": 5,
+        "importPath": "fundamentos.format",
+        "description": "fundamentos.format",
+        "peekOfCode": "numero2 = int (input('Digite o segundo número: '));\nsoma = numero1+numero2;\nprint(f'A soma dos números digitados é {soma}');\nvalor = 45.345789;\nprint(f'{valor:.2f}');\nprint('Olá {}, você tem {} anos'.format('Carolina',25));",
+        "detail": "fundamentos.format",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 5,
+        "importPath": "fundamentos.format",
+        "description": "fundamentos.format",
+        "peekOfCode": "soma = numero1+numero2;\nprint(f'A soma dos números digitados é {soma}');\nvalor = 45.345789;\nprint(f'{valor:.2f}');\nprint('Olá {}, você tem {} anos'.format('Carolina',25));",
+        "detail": "fundamentos.format",
+        "documentation": {}
+    },
+    {
+        "label": "valor",
+        "kind": 5,
+        "importPath": "fundamentos.format",
+        "description": "fundamentos.format",
+        "peekOfCode": "valor = 45.345789;\nprint(f'{valor:.2f}');\nprint('Olá {}, você tem {} anos'.format('Carolina',25));",
+        "detail": "fundamentos.format",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 2,
+        "importPath": "fundamentos.funcoes",
+        "description": "fundamentos.funcoes",
+        "peekOfCode": "def soma(): #definição da função soma\n    calculo = 10+2;\n    print(f'O resultado da soma é :{calculo}');\nsoma() # chamada da função\n# Função com parametro\nnum1 = int (input('Digite o primeiro número: '));\nnum2 = int (input('Digite o segundo número:'));\ndef multiplicacao (num1, num2):\n    multi = num1*num2;\n    print(f'O resultado da multiplicação é {multi}');",
+        "detail": "fundamentos.funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "multiplicaca",
+        "kind": 2,
+        "importPath": "fundamentos.funcoes",
+        "description": "fundamentos.funcoes",
+        "peekOfCode": "def multiplicacao (num1, num2):\n    multi = num1*num2;\n    print(f'O resultado da multiplicação é {multi}');\nmultiplicacao(num1, num2);",
+        "detail": "fundamentos.funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "fundamentos.funcoes",
+        "description": "fundamentos.funcoes",
+        "peekOfCode": "num1 = int (input('Digite o primeiro número: '));\nnum2 = int (input('Digite o segundo número:'));\ndef multiplicacao (num1, num2):\n    multi = num1*num2;\n    print(f'O resultado da multiplicação é {multi}');\nmultiplicacao(num1, num2);",
+        "detail": "fundamentos.funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "fundamentos.funcoes",
+        "description": "fundamentos.funcoes",
+        "peekOfCode": "num2 = int (input('Digite o segundo número:'));\ndef multiplicacao (num1, num2):\n    multi = num1*num2;\n    print(f'O resultado da multiplicação é {multi}');\nmultiplicacao(num1, num2);",
+        "detail": "fundamentos.funcoes",
+        "documentation": {}
+    },
+    {
+        "label": "valor",
+        "kind": 5,
+        "importPath": "fundamentos.incremento_decremento",
+        "description": "fundamentos.incremento_decremento",
+        "peekOfCode": "valor = 5;\nvalor += 1;\nprint(valor)\n#decremento \nvalor2 = 10;\nvalor2 -= 5;\nprint(valor2);",
+        "detail": "fundamentos.incremento_decremento",
+        "documentation": {}
+    },
+    {
+        "label": "valor2",
+        "kind": 5,
+        "importPath": "fundamentos.incremento_decremento",
+        "description": "fundamentos.incremento_decremento",
+        "peekOfCode": "valor2 = 10;\nvalor2 -= 5;\nprint(valor2);",
+        "detail": "fundamentos.incremento_decremento",
+        "documentation": {}
+    },
+    {
+        "label": "lista_frutas",
+        "kind": 5,
+        "importPath": "fundamentos.listas",
+        "description": "fundamentos.listas",
+        "peekOfCode": "lista_frutas = [];\nlista_frutas.append('Maça');\nlista_frutas.append('Uva');\nlista_frutas.append('Banana');\nprint(lista_frutas);\n#Adicionando elementos de forma Dinâmica\nlista_alunos = [];\nwhile len(lista_alunos)<5:\n    aluno = input(\"Digite um nome do Aluno:\");\n    lista_alunos.append(aluno);",
+        "detail": "fundamentos.listas",
+        "documentation": {}
+    },
+    {
+        "label": "lista_alunos",
+        "kind": 5,
+        "importPath": "fundamentos.listas",
+        "description": "fundamentos.listas",
+        "peekOfCode": "lista_alunos = [];\nwhile len(lista_alunos)<5:\n    aluno = input(\"Digite um nome do Aluno:\");\n    lista_alunos.append(aluno);\nprint(f'Lista de Alunos Matrículados {lista_alunos}');\nplanets = ['Terra', 'Marte','Jupyter'];\nprint(planets[-1]); #Retorna o último elemento da lista\n# Para Ordenar um lista utilizamos a função sort()\nnumeros = [4,3,5,6,1];",
+        "detail": "fundamentos.listas",
+        "documentation": {}
+    },
+    {
+        "label": "planets",
+        "kind": 5,
+        "importPath": "fundamentos.listas",
+        "description": "fundamentos.listas",
+        "peekOfCode": "planets = ['Terra', 'Marte','Jupyter'];\nprint(planets[-1]); #Retorna o último elemento da lista\n# Para Ordenar um lista utilizamos a função sort()\nnumeros = [4,3,5,6,1];",
+        "detail": "fundamentos.listas",
+        "documentation": {}
+    },
+    {
+        "label": "numeros",
+        "kind": 5,
+        "importPath": "fundamentos.listas",
+        "description": "fundamentos.listas",
+        "peekOfCode": "numeros = [4,3,5,6,1];",
+        "detail": "fundamentos.listas",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "file = './fundamentos/arquivo.txt';\n# open -> abertura somente para leitura\narquivo_leitura = open(file, \"r\");\n# abertura para escrita\narquivo_escrito = open(file,\"w\");\n# abertura de arquivos binários\narquivo_binario = open(file, \"wb\");\n# escrita\narquivo_escrita = open(file,\"w\");\narquivo_escrita.write(\"Texto a ser escrito\");",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "arquivo_leitura",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "arquivo_leitura = open(file, \"r\");\n# abertura para escrita\narquivo_escrito = open(file,\"w\");\n# abertura de arquivos binários\narquivo_binario = open(file, \"wb\");\n# escrita\narquivo_escrita = open(file,\"w\");\narquivo_escrita.write(\"Texto a ser escrito\");\narquivo_escrita.close();\n# leitura",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "arquivo_escrito",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "arquivo_escrito = open(file,\"w\");\n# abertura de arquivos binários\narquivo_binario = open(file, \"wb\");\n# escrita\narquivo_escrita = open(file,\"w\");\narquivo_escrita.write(\"Texto a ser escrito\");\narquivo_escrita.close();\n# leitura\narquivo_leitura = open(file,\"r\");\nleitura = arquivo_leitura.read();",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "arquivo_binario",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "arquivo_binario = open(file, \"wb\");\n# escrita\narquivo_escrita = open(file,\"w\");\narquivo_escrita.write(\"Texto a ser escrito\");\narquivo_escrita.close();\n# leitura\narquivo_leitura = open(file,\"r\");\nleitura = arquivo_leitura.read();\nprint(leitura);\narquivo_leitura.close();",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "arquivo_escrita",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "arquivo_escrita = open(file,\"w\");\narquivo_escrita.write(\"Texto a ser escrito\");\narquivo_escrita.close();\n# leitura\narquivo_leitura = open(file,\"r\");\nleitura = arquivo_leitura.read();\nprint(leitura);\narquivo_leitura.close();",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "arquivo_leitura",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "arquivo_leitura = open(file,\"r\");\nleitura = arquivo_leitura.read();\nprint(leitura);\narquivo_leitura.close();",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "leitura",
+        "kind": 5,
+        "importPath": "fundamentos.manipulacao_arquivos",
+        "description": "fundamentos.manipulacao_arquivos",
+        "peekOfCode": "leitura = arquivo_leitura.read();\nprint(leitura);\narquivo_leitura.close();",
+        "detail": "fundamentos.manipulacao_arquivos",
+        "documentation": {}
+    },
+    {
+        "label": "tabuada",
+        "kind": 2,
+        "importPath": "fundamentos.tabuada",
+        "description": "fundamentos.tabuada",
+        "peekOfCode": "def tabuada(numero, limite):\n    print(f'Tabuada do {numero}');\n    for i in range(1, limite+1):\n        resultado = numero*i;\n        print(f'{numero} x {i} = {resultado}');\ntabuada(numero_tabuada, limite);\n'''for itera de 1 até o limite, \nmultiplicando o número pelo iterador \natual do loop para gerar os resultados.'''",
+        "detail": "fundamentos.tabuada",
+        "documentation": {}
+    },
+    {
+        "label": "numero_tabuada",
+        "kind": 5,
+        "importPath": "fundamentos.tabuada",
+        "description": "fundamentos.tabuada",
+        "peekOfCode": "numero_tabuada = int (input(\"Digite qual número deseja construir a tabuada: \"));\nlimite = int(input(\"Digite qual o limite para tabuada:\"));\ndef tabuada(numero, limite):\n    print(f'Tabuada do {numero}');\n    for i in range(1, limite+1):\n        resultado = numero*i;\n        print(f'{numero} x {i} = {resultado}');\ntabuada(numero_tabuada, limite);\n'''for itera de 1 até o limite, \nmultiplicando o número pelo iterador ",
+        "detail": "fundamentos.tabuada",
+        "documentation": {}
+    },
+    {
+        "label": "limite",
+        "kind": 5,
+        "importPath": "fundamentos.tabuada",
+        "description": "fundamentos.tabuada",
+        "peekOfCode": "limite = int(input(\"Digite qual o limite para tabuada:\"));\ndef tabuada(numero, limite):\n    print(f'Tabuada do {numero}');\n    for i in range(1, limite+1):\n        resultado = numero*i;\n        print(f'{numero} x {i} = {resultado}');\ntabuada(numero_tabuada, limite);\n'''for itera de 1 até o limite, \nmultiplicando o número pelo iterador \natual do loop para gerar os resultados.'''",
+        "detail": "fundamentos.tabuada",
+        "documentation": {}
+    },
+    {
+        "label": "divisao",
+        "kind": 2,
+        "importPath": "fundamentos.tratamento_excessoes",
+        "description": "fundamentos.tratamento_excessoes",
+        "peekOfCode": "def divisao(a, b):\n    try:\n        resultado = a/b;\n        print(resultado);\n    except ZeroDivisionError:\n        print(\"Erro:Impossível dividir um valor por zero\");\n    except TypeError as e:\n        print(f'Erro: O tipo do dado informado está incorreto.\\n Detalhes: {e}');\n    else:\n        print('sem exceções');",
+        "detail": "fundamentos.tratamento_excessoes",
+        "documentation": {}
+    },
+    {
+        "label": "tupla",
+        "kind": 5,
+        "importPath": "fundamentos.tuplas",
+        "description": "fundamentos.tuplas",
+        "peekOfCode": "tupla = ('Maça', 'Banana','Uva','Morango');\nprint(tupla);",
+        "detail": "fundamentos.tuplas",
+        "documentation": {}
+    },
+    {
+        "label": "numero",
+        "kind": 5,
+        "importPath": "fundamentos.variaveis",
+        "description": "fundamentos.variaveis",
+        "peekOfCode": "numero = int(input('Digite seu numero:'));\nprint(numero);\n# Tipo Float \nnumero_float = float (input('Digite um numero float:'));\nprint(numero_float);\n#Tipo STRING \nfrase = input('Digite sua frase:');\nprint('Olá '+frase);\n# Operações matemática\n# Soma",
+        "detail": "fundamentos.variaveis",
+        "documentation": {}
+    },
+    {
+        "label": "numero_float",
+        "kind": 5,
+        "importPath": "fundamentos.variaveis",
+        "description": "fundamentos.variaveis",
+        "peekOfCode": "numero_float = float (input('Digite um numero float:'));\nprint(numero_float);\n#Tipo STRING \nfrase = input('Digite sua frase:');\nprint('Olá '+frase);\n# Operações matemática\n# Soma\n# numero1 = int(input('Digite o primeiro número: '));\n# numero2 = int(input('Digite o segundo número: '));\n# soma = numero1+numero2;",
+        "detail": "fundamentos.variaveis",
+        "documentation": {}
+    },
+    {
+        "label": "frase",
+        "kind": 5,
+        "importPath": "fundamentos.variaveis",
+        "description": "fundamentos.variaveis",
+        "peekOfCode": "frase = input('Digite sua frase:');\nprint('Olá '+frase);\n# Operações matemática\n# Soma\n# numero1 = int(input('Digite o primeiro número: '));\n# numero2 = int(input('Digite o segundo número: '));\n# soma = numero1+numero2;\n# print(soma);\n# #Subtrair\n# numero1 = int(input('Digite o primeiro número: '));",
+        "detail": "fundamentos.variaveis",
+        "documentation": {}
+    },
+    {
+        "label": "numero1",
+        "kind": 5,
+        "importPath": "fundamentos.variaveis",
+        "description": "fundamentos.variaveis",
+        "peekOfCode": "numero1 = int(input('Digite o primeiro número: '));\nnumero2 = int(input('Digite o segundo número: '));\ndivisaoInteira = numero1//numero2;",
+        "detail": "fundamentos.variaveis",
+        "documentation": {}
+    },
+    {
+        "label": "numero2",
+        "kind": 5,
+        "importPath": "fundamentos.variaveis",
+        "description": "fundamentos.variaveis",
+        "peekOfCode": "numero2 = int(input('Digite o segundo número: '));\ndivisaoInteira = numero1//numero2;",
+        "detail": "fundamentos.variaveis",
+        "documentation": {}
+    },
+    {
+        "label": "divisaoInteira",
+        "kind": 5,
+        "importPath": "fundamentos.variaveis",
+        "description": "fundamentos.variaveis",
+        "peekOfCode": "divisaoInteira = numero1//numero2;",
+        "detail": "fundamentos.variaveis",
+        "documentation": {}
+    },
+    {
+        "label": "tv_sala",
+        "kind": 5,
+        "importPath": "POO-Python.classes.app",
+        "description": "POO-Python.classes.app",
+        "peekOfCode": "tv_sala = Televisao(); #instanciando um objeto\n# Exibindo estado inicial\nprint(f'TV Ligada: {tv_sala.ligada}');\nprint(f'Canal: {tv_sala.canal}');\ntv_sala.ligar();\nprint(f'TV Ligada: {tv_sala.ligada}');\nprint(f'Canal: {tv_sala.canal}');\ntv_sala.canal = 4;\nprint(f'TV Ligada: {tv_sala.ligada}');\nprint(f'Canal: {tv_sala.canal}');",
+        "detail": "POO-Python.classes.app",
+        "documentation": {}
+    },
+    {
+        "label": "tv_sala.canal",
+        "kind": 5,
+        "importPath": "POO-Python.classes.app",
+        "description": "POO-Python.classes.app",
+        "peekOfCode": "tv_sala.canal = 4;\nprint(f'TV Ligada: {tv_sala.ligada}');\nprint(f'Canal: {tv_sala.canal}');\ntv_sala.desligar();\nprint(f'TV Ligada: {tv_sala.ligada}');\nprint(f'Canal: {tv_sala.canal}');",
+        "detail": "POO-Python.classes.app",
+        "documentation": {}
+    },
+    {
+        "label": "Televisao",
+        "kind": 6,
+        "importPath": "POO-Python.classes.Televisao",
+        "description": "POO-Python.classes.Televisao",
+        "peekOfCode": "class Televisao:\n    def __init__(self):\n        self.ligada = False;\n        self.canal = 3;\n    def ligar(self):\n        self.ligada = True;\n    def desligar(self):\n        self.ligada = False;",
+        "detail": "POO-Python.classes.Televisao",
+        "documentation": {}
+    },
+    {
+        "label": "Tv",
+        "kind": 6,
+        "importPath": "POO-Python.classes.tv",
+        "description": "POO-Python.classes.tv",
+        "peekOfCode": "class Tv: #PascalCasing\n    def __init__(self):\n        self.ligada = False;\n        self.canal = 3;\n        self.canal_min = 1;\n        self.canal_max = 99;\n        self.volume = 30;\n        self.volume_min = 0;\n        self.volume_max = 100;\n    def ligar(self):",
+        "detail": "POO-Python.classes.tv",
+        "documentation": {}
+    },
+    {
+        "label": "tv_sala",
+        "kind": 5,
+        "importPath": "POO-Python.classes.tv",
+        "description": "POO-Python.classes.tv",
+        "peekOfCode": "tv_sala = Tv();\ntv_quarto = Tv();\nprint('Estado Inicial da TV');\nprint(f'A televisão da sala está ligada: {tv_sala.ligada}');\nprint('tv_quarto está ligada? {}'.format(tv_quarto.ligada));\ntv_sala.ligar();\nprint(f'A televisão da sala está ligada: {tv_sala.ligada}');\nprint('tv_quarto está ligada? {}'.format(tv_quarto.ligada));\nfor i in range(3):\n    tv_sala.aumentar_volume();",
+        "detail": "POO-Python.classes.tv",
+        "documentation": {}
+    },
+    {
+        "label": "tv_quarto",
+        "kind": 5,
+        "importPath": "POO-Python.classes.tv",
+        "description": "POO-Python.classes.tv",
+        "peekOfCode": "tv_quarto = Tv();\nprint('Estado Inicial da TV');\nprint(f'A televisão da sala está ligada: {tv_sala.ligada}');\nprint('tv_quarto está ligada? {}'.format(tv_quarto.ligada));\ntv_sala.ligar();\nprint(f'A televisão da sala está ligada: {tv_sala.ligada}');\nprint('tv_quarto está ligada? {}'.format(tv_quarto.ligada));\nfor i in range(3):\n    tv_sala.aumentar_volume();\nprint(f'Volume atual tv sala: {tv_sala.volume}');",
+        "detail": "POO-Python.classes.tv",
+        "documentation": {}
+    },
+    {
+        "label": "ClasseAbstrata",
+        "kind": 6,
+        "importPath": "POO-Python.class_abstract.exemplo",
+        "description": "POO-Python.class_abstract.exemplo",
+        "peekOfCode": "class ClasseAbstrata(ABC):\n    @abstractmethod\n    def metodo_abstrato(self):\n        pass\n    @property\n    @abstractmethod\n    def propriedade_abstrata(self):\n        pass\nclass ClasseDerivada(ClasseAbstrata):\n    #sobrescreve o método abstrato",
+        "detail": "POO-Python.class_abstract.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "ClasseDerivada",
+        "kind": 6,
+        "importPath": "POO-Python.class_abstract.exemplo",
+        "description": "POO-Python.class_abstract.exemplo",
+        "peekOfCode": "class ClasseDerivada(ClasseAbstrata):\n    #sobrescreve o método abstrato\n    def metodo_abstrato(self):\n        print(\"Boa noite\");\n    #sobrescrevendo a propriedada abstrata\n    @property\n    def propriedade_abstrata(self):\n        return 'Noite'\nabstrato =  ClasseDerivada();\nabstrato.metodo_abstrato();",
+        "detail": "POO-Python.class_abstract.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "abstrato",
+        "kind": 5,
+        "importPath": "POO-Python.class_abstract.exemplo",
+        "description": "POO-Python.class_abstract.exemplo",
+        "peekOfCode": "abstrato =  ClasseDerivada();\nabstrato.metodo_abstrato();",
+        "detail": "POO-Python.class_abstract.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "Pokemon",
+        "kind": 6,
+        "importPath": "POO-Python.class_abstract.Pokemon",
+        "description": "POO-Python.class_abstract.Pokemon",
+        "peekOfCode": "class Pokemon(ABC):\n    def __init__(self,nome):\n        self.nome = nome;\n        self._nivel = 1;\n        self._experiencia = 0;\n    @abstractmethod\n    def ataque_principal(self): # O uso dos metodos abstratos torna a classe abstrata\n        pass\n    @abstractmethod\n    def passar_de_nivel(self):",
+        "detail": "POO-Python.class_abstract.Pokemon",
+        "documentation": {}
+    },
+    {
+        "label": "Pikachu",
+        "kind": 6,
+        "importPath": "POO-Python.class_abstract.Pokemon",
+        "description": "POO-Python.class_abstract.Pokemon",
+        "peekOfCode": "class Pikachu(Pokemon):\n    def __init__(self,nome):\n        super().__init__(nome);\n    def ataque_principal(self):\n        print(f'{self.nome} usou Choque de trovão!');\n        self._experiencia +=2;\n        self.passar_de_nivel();\n    def passar_de_nivel(self):\n        # Passa de nível a cada 10 pontos de experiência\n        if self._experiencia % 10 == 0:",
+        "detail": "POO-Python.class_abstract.Pokemon",
+        "documentation": {}
+    },
+    {
+        "label": "pokemon",
+        "kind": 5,
+        "importPath": "POO-Python.class_abstract.Pokemon",
+        "description": "POO-Python.class_abstract.Pokemon",
+        "peekOfCode": "pokemon = Pikachu('Pikachu');\nprint(pokemon);\nprint(f'Nivel inicial do Pokemon: {pokemon._nivel}');\nprint(f' Pontos de Experiência :{pokemon._experiencia}')\nfor i in range(100):\n    pokemon.ataque_principal();\n    pokemon.ataque_secundario();\nprint(f'Nivel atual do Pokemon: {pokemon._nivel}');\nprint(f' Pontos de Experiência :{pokemon._experiencia}')\npokemon.passar_de_nivel();",
+        "detail": "POO-Python.class_abstract.Pokemon",
+        "documentation": {}
+    },
+    {
+        "label": "Brinquedo",
+        "kind": 6,
+        "importPath": "POO-Python.construtores  e desestrutores.brinquedo_destrutor",
+        "description": "POO-Python.construtores  e desestrutores.brinquedo_destrutor",
+        "peekOfCode": "class Brinquedo:\n    def __init__(self, nome):\n        self.nome = nome\n        print(f\"{self.nome} foi criado!\")\n    def __del__(self):\n        print(f\"{self.nome} está sendo removido!\")\n# Criando um objeto (brinquedo)\nmeu_brinquedo = Brinquedo(\"Boneca\")\n# O objeto será removido quando sair do escopo ou quando for explicitamente deletado\n# A mensagem do destrutor será exibida automaticamente",
+        "detail": "POO-Python.construtores  e desestrutores.brinquedo_destrutor",
+        "documentation": {}
+    },
+    {
+        "label": "meu_brinquedo",
+        "kind": 5,
+        "importPath": "POO-Python.construtores  e desestrutores.brinquedo_destrutor",
+        "description": "POO-Python.construtores  e desestrutores.brinquedo_destrutor",
+        "peekOfCode": "meu_brinquedo = Brinquedo(\"Boneca\")\n# O objeto será removido quando sair do escopo ou quando for explicitamente deletado\n# A mensagem do destrutor será exibida automaticamente",
+        "detail": "POO-Python.construtores  e desestrutores.brinquedo_destrutor",
+        "documentation": {}
+    },
+    {
+        "label": "MinhaClasse1",
+        "kind": 6,
+        "importPath": "POO-Python.construtores  e desestrutores.construtor",
+        "description": "POO-Python.construtores  e desestrutores.construtor",
+        "peekOfCode": "class MinhaClasse1:\n    def __init__(self):\n        print('MinhaClasse1: Chamou o construtor padrão');\nobjeto1 = MinhaClasse1();\nclass MinhaClasse2:\n    pass # não faz nada\nobjeto2 = MinhaClasse2();\n#Construtor Parametrizado\nclass MinhaClasse3:\n    def __init__(self,param):",
+        "detail": "POO-Python.construtores  e desestrutores.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "MinhaClasse2",
+        "kind": 6,
+        "importPath": "POO-Python.construtores  e desestrutores.construtor",
+        "description": "POO-Python.construtores  e desestrutores.construtor",
+        "peekOfCode": "class MinhaClasse2:\n    pass # não faz nada\nobjeto2 = MinhaClasse2();\n#Construtor Parametrizado\nclass MinhaClasse3:\n    def __init__(self,param):\n        print(f'Minha Classe3: Chamou o construtor parametrizado com o parâmetro:{param}');\nobjecto3 = MinhaClasse3('João');",
+        "detail": "POO-Python.construtores  e desestrutores.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "MinhaClasse3",
+        "kind": 6,
+        "importPath": "POO-Python.construtores  e desestrutores.construtor",
+        "description": "POO-Python.construtores  e desestrutores.construtor",
+        "peekOfCode": "class MinhaClasse3:\n    def __init__(self,param):\n        print(f'Minha Classe3: Chamou o construtor parametrizado com o parâmetro:{param}');\nobjecto3 = MinhaClasse3('João');",
+        "detail": "POO-Python.construtores  e desestrutores.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "objeto1",
+        "kind": 5,
+        "importPath": "POO-Python.construtores  e desestrutores.construtor",
+        "description": "POO-Python.construtores  e desestrutores.construtor",
+        "peekOfCode": "objeto1 = MinhaClasse1();\nclass MinhaClasse2:\n    pass # não faz nada\nobjeto2 = MinhaClasse2();\n#Construtor Parametrizado\nclass MinhaClasse3:\n    def __init__(self,param):\n        print(f'Minha Classe3: Chamou o construtor parametrizado com o parâmetro:{param}');\nobjecto3 = MinhaClasse3('João');",
+        "detail": "POO-Python.construtores  e desestrutores.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "objeto2",
+        "kind": 5,
+        "importPath": "POO-Python.construtores  e desestrutores.construtor",
+        "description": "POO-Python.construtores  e desestrutores.construtor",
+        "peekOfCode": "objeto2 = MinhaClasse2();\n#Construtor Parametrizado\nclass MinhaClasse3:\n    def __init__(self,param):\n        print(f'Minha Classe3: Chamou o construtor parametrizado com o parâmetro:{param}');\nobjecto3 = MinhaClasse3('João');",
+        "detail": "POO-Python.construtores  e desestrutores.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "objecto3",
+        "kind": 5,
+        "importPath": "POO-Python.construtores  e desestrutores.construtor",
+        "description": "POO-Python.construtores  e desestrutores.construtor",
+        "peekOfCode": "objecto3 = MinhaClasse3('João');",
+        "detail": "POO-Python.construtores  e desestrutores.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "MinhaClasse",
+        "kind": 6,
+        "importPath": "POO-Python.construtores  e desestrutores.destrutores",
+        "description": "POO-Python.construtores  e desestrutores.destrutores",
+        "peekOfCode": "class MinhaClasse:\n    def __init__(self, nome) :\n       self.nome = nome;\n       print(f'MinhaClasse1: Chamou o construtor parametrizado de {nome}');\n    def __del__(self):\n        print(f'Minha Classe 1: Chamou o destrutor de {self.nome}');\nprint('Começou a execução do programa');\nobjeto1= MinhaClasse('objeto1');\ndel objeto1;\nprint('Vai terminar a execução do programa');",
+        "detail": "POO-Python.construtores  e desestrutores.destrutores",
+        "documentation": {}
+    },
+    {
+        "label": "imprimir_no_log",
+        "kind": 2,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "def imprimir_no_log(texto, nivel='info'):\n    if nivel.lower() == 'info':\n        print(colorama.Fore.LIGHTBLUE_EX + f'Info: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'aviso':\n        print(colorama.Fore.YELLOW + f'Aviso: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'erro':\n        raise ValueError(colorama.Fore.RED + 'Erro: ' + colorama.Style.RESET_ALL + texto)\ndef calcular_imposto_de_renda(valor):",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_imposto_de_renda",
+        "kind": 2,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "def calcular_imposto_de_renda(valor):\n    taxa = 0.27\n    valor_imposto = taxa * valor\n    return valor_imposto\ndef calcular_inss(valor):\n    taxa = 0.14\n    valor_imposto = taxa * valor\n    return valor_imposto\ndef processar_salario():\n    global valor_na_conta",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_inss",
+        "kind": 2,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "def calcular_inss(valor):\n    taxa = 0.14\n    valor_imposto = taxa * valor\n    return valor_imposto\ndef processar_salario():\n    global valor_na_conta\n    valor_irpf = calcular_imposto_de_renda(salario_bruto)\n    valor_inss = calcular_inss(salario_bruto)\n    total_impostos = valor_inss+valor_irpf;\n    valor_na_conta = salario_bruto - total_impostos",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "processar_salario",
+        "kind": 2,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "def processar_salario():\n    global valor_na_conta\n    valor_irpf = calcular_imposto_de_renda(salario_bruto)\n    valor_inss = calcular_inss(salario_bruto)\n    total_impostos = valor_inss+valor_irpf;\n    valor_na_conta = salario_bruto - total_impostos\ndef sacar_na_conta(valor):\n    global valor_na_conta\n    global salario_processado\n    if not salario_processado:",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "sacar_na_conta",
+        "kind": 2,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "def sacar_na_conta(valor):\n    global valor_na_conta\n    global salario_processado\n    if not salario_processado:\n        imprimir_no_log('Processando o salario bruto antes de permitir o saque...', 'aviso')\n        processar_salario()\n        imprimir_no_log(f'O novo valor do salário na conta é {valor_na_conta}...', 'info')\n        salario_processado = True\n    if valor <= valor_na_conta:\n        valor_na_conta -= valor",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "salario_bruto",
+        "kind": 5,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "salario_bruto = 5000\nvalor_na_conta = -1\nsalario_processado = False\ndef imprimir_no_log(texto, nivel='info'):\n    if nivel.lower() == 'info':\n        print(colorama.Fore.LIGHTBLUE_EX + f'Info: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'aviso':\n        print(colorama.Fore.YELLOW + f'Aviso: ', end='')\n        print(colorama.Style.RESET_ALL + texto)",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "valor_na_conta",
+        "kind": 5,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "valor_na_conta = -1\nsalario_processado = False\ndef imprimir_no_log(texto, nivel='info'):\n    if nivel.lower() == 'info':\n        print(colorama.Fore.LIGHTBLUE_EX + f'Info: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'aviso':\n        print(colorama.Fore.YELLOW + f'Aviso: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'erro':",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "salario_processado",
+        "kind": 5,
+        "importPath": "POO-Python.debug.conta_bancaria",
+        "description": "POO-Python.debug.conta_bancaria",
+        "peekOfCode": "salario_processado = False\ndef imprimir_no_log(texto, nivel='info'):\n    if nivel.lower() == 'info':\n        print(colorama.Fore.LIGHTBLUE_EX + f'Info: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'aviso':\n        print(colorama.Fore.YELLOW + f'Aviso: ', end='')\n        print(colorama.Style.RESET_ALL + texto)\n    elif nivel.lower() == 'erro':\n        raise ValueError(colorama.Fore.RED + 'Erro: ' + colorama.Style.RESET_ALL + texto)",
+        "detail": "POO-Python.debug.conta_bancaria",
+        "documentation": {}
+    },
+    {
+        "label": "valor_a_sacar",
+        "kind": 5,
+        "importPath": "POO-Python.debug.debug",
+        "description": "POO-Python.debug.debug",
+        "peekOfCode": "valor_a_sacar = input('Quanto você deseja retirar da sua conta? ')\nfuncionou = sacar_na_conta(float(valor_a_sacar))\n# Sacando novamente\nvalor_a_sacar = input('Quanto você deseja retirar da sua conta? ')\nfuncionou = sacar_na_conta(float(valor_a_sacar))",
+        "detail": "POO-Python.debug.debug",
+        "documentation": {}
+    },
+    {
+        "label": "funcionou",
+        "kind": 5,
+        "importPath": "POO-Python.debug.debug",
+        "description": "POO-Python.debug.debug",
+        "peekOfCode": "funcionou = sacar_na_conta(float(valor_a_sacar))\n# Sacando novamente\nvalor_a_sacar = input('Quanto você deseja retirar da sua conta? ')\nfuncionou = sacar_na_conta(float(valor_a_sacar))",
+        "detail": "POO-Python.debug.debug",
+        "documentation": {}
+    },
+    {
+        "label": "valor_a_sacar",
+        "kind": 5,
+        "importPath": "POO-Python.debug.debug",
+        "description": "POO-Python.debug.debug",
+        "peekOfCode": "valor_a_sacar = input('Quanto você deseja retirar da sua conta? ')\nfuncionou = sacar_na_conta(float(valor_a_sacar))",
+        "detail": "POO-Python.debug.debug",
+        "documentation": {}
+    },
+    {
+        "label": "funcionou",
+        "kind": 5,
+        "importPath": "POO-Python.debug.debug",
+        "description": "POO-Python.debug.debug",
+        "peekOfCode": "funcionou = sacar_na_conta(float(valor_a_sacar))",
+        "detail": "POO-Python.debug.debug",
+        "documentation": {}
+    },
+    {
+        "label": "Av",
+        "kind": 6,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "class Ave ():\n    def andar(self):\n        print('andando');\n    def voar(self):\n        print('voando');\nclass Calopsita(Ave):\n    def piar(self):\n        print('piuuu');\nclass Pato(Ave):\n    def quack(self):",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "Calopsita",
+        "kind": 6,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "class Calopsita(Ave):\n    def piar(self):\n        print('piuuu');\nclass Pato(Ave):\n    def quack(self):\n        print('quack')\n    def nadar(self):\n        print('nadando');\ndef executar_pato(animal):\n    animal.quack()",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "Pato",
+        "kind": 6,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "class Pato(Ave):\n    def quack(self):\n        print('quack')\n    def nadar(self):\n        print('nadando');\ndef executar_pato(animal):\n    animal.quack()\n    animal.andar()\n    animal.voar()\n    animal.nadar()",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "executar_pato",
+        "kind": 2,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "def executar_pato(animal):\n    animal.quack()\n    animal.andar()\n    animal.voar()\n    animal.nadar()\npato = Pato()\ncalopsita = Calopsita();\nexecutar_pato(pato);\n# executar_pato(calopsita);",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "a = 1;\nprint(type(a));\na = \"Maria\";\nprint (type(a));\nclass Ave ():\n    def andar(self):\n        print('andando');\n    def voar(self):\n        print('voando');\nclass Calopsita(Ave):",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "a = \"Maria\";\nprint (type(a));\nclass Ave ():\n    def andar(self):\n        print('andando');\n    def voar(self):\n        print('voando');\nclass Calopsita(Ave):\n    def piar(self):\n        print('piuuu');",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "pato",
+        "kind": 5,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "pato = Pato()\ncalopsita = Calopsita();\nexecutar_pato(pato);\n# executar_pato(calopsita);",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "calopsita",
+        "kind": 5,
+        "importPath": "POO-Python.duck_type.exemplo",
+        "description": "POO-Python.duck_type.exemplo",
+        "peekOfCode": "calopsita = Calopsita();\nexecutar_pato(pato);\n# executar_pato(calopsita);",
+        "detail": "POO-Python.duck_type.exemplo",
+        "documentation": {}
+    },
+    {
+        "label": "ContaBancaria",
+        "kind": 6,
+        "importPath": "POO-Python.encapsulamento.ContaBancariaProp",
+        "description": "POO-Python.encapsulamento.ContaBancariaProp",
+        "peekOfCode": "class ContaBancaria:\n    def __init__(self, titular, saldo_inicial):\n        self._titular = titular  # Atributo protegido\n        self.__saldo = saldo_inicial  # Atributo privado\n    # Propriedade para encapsular o acesso e validação do saldo\n    @property\n    def saldo(self):\n        return self.__saldo\n    # Setter da propriedade para validar o novo saldo\n    @saldo.setter",
+        "detail": "POO-Python.encapsulamento.ContaBancariaProp",
+        "documentation": {}
+    },
+    {
+        "label": "minha_conta",
+        "kind": 5,
+        "importPath": "POO-Python.encapsulamento.ContaBancariaProp",
+        "description": "POO-Python.encapsulamento.ContaBancariaProp",
+        "peekOfCode": "minha_conta = ContaBancaria(titular=\"João\", saldo_inicial=1000)\n# Acessando o saldo usando a propriedade\nprint(f\"Saldo atual: {minha_conta.saldo}\")\n# Realizando um depósito\nminha_conta.depositar(500)\n# Realizando um saque\nminha_conta.sacar(200)",
+        "detail": "POO-Python.encapsulamento.ContaBancariaProp",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 6,
+        "importPath": "POO-Python.encapsulamento.encapsulamento",
+        "description": "POO-Python.encapsulamento.encapsulamento",
+        "peekOfCode": "class Pessoa:\n    def __init__(self, nome, profissao,identidade):\n        self._nome = nome; #VARIÁVEL PROTECTED\n        self.profissao = profissao; \n        self.__identidade = identidade; #VARIÁVEL PRIVATE\n    #método exibir uma string    \n    def __str__(self):\n        return f'Nome: {self._nome} , Profissão: {self.profissao}, Identidade: {self.__identidade}';\npessoa = Pessoa('Maria José', 'Estudante','895674');\nprint(pessoa);",
+        "detail": "POO-Python.encapsulamento.encapsulamento",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa",
+        "kind": 5,
+        "importPath": "POO-Python.encapsulamento.encapsulamento",
+        "description": "POO-Python.encapsulamento.encapsulamento",
+        "peekOfCode": "pessoa = Pessoa('Maria José', 'Estudante','895674');\nprint(pessoa);\n# atributos ou metodos públicos podem ser modificados\npessoa.profissao = 'Programadora';\nprint(pessoa)\n# atributos ou metodos protegidos podem ser modificados\npessoa._nome = 'Carolina Sanches';\nprint(pessoa);\n#atributos ou metodos privados não se modificam\npessoa.__identidade ='415263';",
+        "detail": "POO-Python.encapsulamento.encapsulamento",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa.profissao",
+        "kind": 5,
+        "importPath": "POO-Python.encapsulamento.encapsulamento",
+        "description": "POO-Python.encapsulamento.encapsulamento",
+        "peekOfCode": "pessoa.profissao = 'Programadora';\nprint(pessoa)\n# atributos ou metodos protegidos podem ser modificados\npessoa._nome = 'Carolina Sanches';\nprint(pessoa);\n#atributos ou metodos privados não se modificam\npessoa.__identidade ='415263';\nprint(pessoa);",
+        "detail": "POO-Python.encapsulamento.encapsulamento",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa._nome",
+        "kind": 5,
+        "importPath": "POO-Python.encapsulamento.encapsulamento",
+        "description": "POO-Python.encapsulamento.encapsulamento",
+        "peekOfCode": "pessoa._nome = 'Carolina Sanches';\nprint(pessoa);\n#atributos ou metodos privados não se modificam\npessoa.__identidade ='415263';\nprint(pessoa);",
+        "detail": "POO-Python.encapsulamento.encapsulamento",
+        "documentation": {}
+    },
+    {
+        "label": "Quadrado",
+        "kind": 6,
+        "importPath": "POO-Python.encapsulamento.propriedades",
+        "description": "POO-Python.encapsulamento.propriedades",
+        "peekOfCode": "class Quadrado:\n    def __init__(self, medida):\n        self.altura = medida;\n        self.largura = medida;\n    @property #declaração de uma propriedade\n    def altura(self):\n        print('getter de altura');\n        return self.__medida\n    @altura.setter\n    def altura(self, valor):",
+        "detail": "POO-Python.encapsulamento.propriedades",
+        "documentation": {}
+    },
+    {
+        "label": "quadrado",
+        "kind": 5,
+        "importPath": "POO-Python.encapsulamento.propriedades",
+        "description": "POO-Python.encapsulamento.propriedades",
+        "peekOfCode": "quadrado = Quadrado(2);\nquadrado.altura = 3;\nprint(quadrado.area());",
+        "detail": "POO-Python.encapsulamento.propriedades",
+        "documentation": {}
+    },
+    {
+        "label": "quadrado.altura",
+        "kind": 5,
+        "importPath": "POO-Python.encapsulamento.propriedades",
+        "description": "POO-Python.encapsulamento.propriedades",
+        "peekOfCode": "quadrado.altura = 3;\nprint(quadrado.area());",
+        "detail": "POO-Python.encapsulamento.propriedades",
+        "documentation": {}
+    },
+    {
+        "label": "Av",
+        "kind": 6,
+        "importPath": "POO-Python.excessao.excessao",
+        "description": "POO-Python.excessao.excessao",
+        "peekOfCode": "class Ave ():\n    def andar(self):\n        print('andando');\n    def voar(self):\n        print('voando');\nclass Calopsita(Ave):\n    def piar(self):\n        print('piuuu');\nclass Pato(Ave):\n    def quack(self):",
+        "detail": "POO-Python.excessao.excessao",
+        "documentation": {}
+    },
+    {
+        "label": "Calopsita",
+        "kind": 6,
+        "importPath": "POO-Python.excessao.excessao",
+        "description": "POO-Python.excessao.excessao",
+        "peekOfCode": "class Calopsita(Ave):\n    def piar(self):\n        print('piuuu');\nclass Pato(Ave):\n    def quack(self):\n        print('quack')\n    def nadar(self):\n        print('nadando');\ndef executar_pato(animal):\n    try:",
+        "detail": "POO-Python.excessao.excessao",
+        "documentation": {}
+    },
+    {
+        "label": "Pato",
+        "kind": 6,
+        "importPath": "POO-Python.excessao.excessao",
+        "description": "POO-Python.excessao.excessao",
+        "peekOfCode": "class Pato(Ave):\n    def quack(self):\n        print('quack')\n    def nadar(self):\n        print('nadando');\ndef executar_pato(animal):\n    try:\n        animal.quack()\n        animal.andar()\n        animal.voar()",
+        "detail": "POO-Python.excessao.excessao",
+        "documentation": {}
+    },
+    {
+        "label": "executar_pato",
+        "kind": 2,
+        "importPath": "POO-Python.excessao.excessao",
+        "description": "POO-Python.excessao.excessao",
+        "peekOfCode": "def executar_pato(animal):\n    try:\n        animal.quack()\n        animal.andar()\n        animal.voar()\n        animal.nadar()\n    except AttributeError as e:\n        print('O animal não é um pato:', e);\npato = Pato()\ncalopsita = Calopsita();",
+        "detail": "POO-Python.excessao.excessao",
+        "documentation": {}
+    },
+    {
+        "label": "pato",
+        "kind": 5,
+        "importPath": "POO-Python.excessao.excessao",
+        "description": "POO-Python.excessao.excessao",
+        "peekOfCode": "pato = Pato()\ncalopsita = Calopsita();\nexecutar_pato(pato);\nexecutar_pato(calopsita);",
+        "detail": "POO-Python.excessao.excessao",
+        "documentation": {}
+    },
+    {
+        "label": "calopsita",
+        "kind": 5,
+        "importPath": "POO-Python.excessao.excessao",
+        "description": "POO-Python.excessao.excessao",
+        "peekOfCode": "calopsita = Calopsita();\nexecutar_pato(pato);\nexecutar_pato(calopsita);",
+        "detail": "POO-Python.excessao.excessao",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "class Pessoa:\n    def __init__(self, nome, telefone, endereco):\n        self.nome = nome\n        self.telefone = telefone\n        self.endereco = endereco\nclass Responsavel(Pessoa):\n    def __init__(self, nome, telefone, endereco):\n        self.nome = nome\n        self.telefone = telefone\nclass Parceiro_vet(Pessoa):",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "Responsavel",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "class Responsavel(Pessoa):\n    def __init__(self, nome, telefone, endereco):\n        self.nome = nome\n        self.telefone = telefone\nclass Parceiro_vet(Pessoa):\n    def __init__(self, nome, telefone, especialidade):\n        super(Parceiro_vet, self).__init__(\n            nome=nome, telefone=telefone, endereco=None\n        )\n        self.especialidade = especialidade      ",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "Parceiro_vet",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "class Parceiro_vet(Pessoa):\n    def __init__(self, nome, telefone, especialidade):\n        super(Parceiro_vet, self).__init__(\n            nome=nome, telefone=telefone, endereco=None\n        )\n        self.especialidade = especialidade      \nclass Animal:\n    def __init__(self, nome, especie, raca, idade, cuidados, responsavel):\n        self.nome = nome\n        self.especie = especie",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "class Animal:\n    def __init__(self, nome, especie, raca, idade, cuidados, responsavel):\n        self.nome = nome\n        self.especie = especie\n        self.raca = raca\n        self.idade = idade\n        self.cuidados = cuidados\n        self.responsavel = responsavel\n    # Transforma um metodo da classe numa propriedade\n    @property ",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "Doacao_comida",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "class Doacao_comida:    \n    def __init__(self, especie, produto, quantidade):\n        self.especie = especie\n        self.produto = produto\n        self.quantidade = quantidade\nclass Abrigo:\n    def __init__(self, nome):\n        self.nome = nome\n        self.responsaveis = {}\n        self.animais = {}",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "Abrigo",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "class Abrigo:\n    def __init__(self, nome):\n        self.nome = nome\n        self.responsaveis = {}\n        self.animais = {}\n        self.adocoes = []\n        self.produtos = []\n        self.parceiros = []\n    def registrar_tutor(self, responsavel_id, nome, telefone, endereco):\n        tutor = Responsavel(nome, telefone, endereco)",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "abrigos",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "abrigos = abrigo_db.abrigos\nobj_abrigos = {}\nfor abrigo in abrigos:\n    obj_abrigos[abrigo[0]] = Abrigo(\n        nome=abrigo[1]\n    )\nparcerias = abrigo_db.parcerias\nfor parceiro in parcerias:\n    obj_abrigo = obj_abrigos[parceiro[4]]\n    obj_abrigo.parceiro(",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "obj_abrigos",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "obj_abrigos = {}\nfor abrigo in abrigos:\n    obj_abrigos[abrigo[0]] = Abrigo(\n        nome=abrigo[1]\n    )\nparcerias = abrigo_db.parcerias\nfor parceiro in parcerias:\n    obj_abrigo = obj_abrigos[parceiro[4]]\n    obj_abrigo.parceiro(\n        nome=parceiro[1],",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "parcerias",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "parcerias = abrigo_db.parcerias\nfor parceiro in parcerias:\n    obj_abrigo = obj_abrigos[parceiro[4]]\n    obj_abrigo.parceiro(\n        nome=parceiro[1],\n        telefone=parceiro[2],\n        especialidade=parceiro[3],\n    )\nalimentos = abrigo_db.alimentos\nfor alimento in alimentos:",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "alimentos",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "alimentos = abrigo_db.alimentos\nfor alimento in alimentos:\n    obj_abrigo = obj_abrigos[alimento[4]]\n    obj_abrigo.receber_doacao(\n        especie=alimento[1],\n        produto=alimento[2],\n        quantidade=alimento[3],\n    )\nresponsaveis = abrigo_db.responsaveis\nfor responsavel in responsaveis:",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "responsaveis",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "responsaveis = abrigo_db.responsaveis\nfor responsavel in responsaveis:\n    obj_abrigo = obj_abrigos[responsavel[4]]\n    obj_abrigo.registrar_tutor(\n        responsavel_id=responsavel[0],\n        nome=responsavel[1],\n        telefone=responsavel[2],\n        endereco=responsavel[3],\n    )\nanimais = abrigo_db.animais",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "animais",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "peekOfCode": "animais = abrigo_db.animais\nfor animal in animais:\n    obj_abrigo = obj_abrigos[animal[7]]\n    responsavel = None\n    if animal[6]:\n        responsavel = obj_abrigo.responsaveis[animal[6]]\n    obj_abrigo.cadastrar_animal(\n        animal_id=animal[0],\n        nome=animal[1],\n        especie=animal[2],",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo",
+        "documentation": {}
+    },
+    {
+        "label": "abrigo",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "abrigo = sqlite3.connect('abrigo')\ncursor = abrigo.cursor()\ncursor.execute('''DROP TABLE Animal''')\ncursor.execute('''DROP TABLE Parceiros''')\ncursor.execute('''DROP TABLE Alimentos''')\ncursor.execute('''DROP TABLE Responsavel''')\ncursor.execute('''DROP TABLE Abrigo''')\ncursor.execute('''\n    CREATE TABLE IF NOT EXISTS Abrigo (\n        abrigo_id SERIAL PRIMARY KEY, ",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "cursor = abrigo.cursor()\ncursor.execute('''DROP TABLE Animal''')\ncursor.execute('''DROP TABLE Parceiros''')\ncursor.execute('''DROP TABLE Alimentos''')\ncursor.execute('''DROP TABLE Responsavel''')\ncursor.execute('''DROP TABLE Abrigo''')\ncursor.execute('''\n    CREATE TABLE IF NOT EXISTS Abrigo (\n        abrigo_id SERIAL PRIMARY KEY, \n        nome VARCHAR(100) NOT NULL",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "abrigos",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "abrigos = cursor.execute('select * from Abrigo').fetchall()\nresponsaveis = cursor.execute('select * from Responsavel').fetchall()\nparcerias = cursor.execute('select * from Parceiros').fetchall()\nalimentos = cursor.execute('select * from Alimentos').fetchall()\nanimais = cursor.execute('select * from Animal').fetchall()\nabrigo.close()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "responsaveis",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "responsaveis = cursor.execute('select * from Responsavel').fetchall()\nparcerias = cursor.execute('select * from Parceiros').fetchall()\nalimentos = cursor.execute('select * from Alimentos').fetchall()\nanimais = cursor.execute('select * from Animal').fetchall()\nabrigo.close()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "parcerias",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "parcerias = cursor.execute('select * from Parceiros').fetchall()\nalimentos = cursor.execute('select * from Alimentos').fetchall()\nanimais = cursor.execute('select * from Animal').fetchall()\nabrigo.close()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "alimentos",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "alimentos = cursor.execute('select * from Alimentos').fetchall()\nanimais = cursor.execute('select * from Animal').fetchall()\nabrigo.close()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "animais",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "description": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "peekOfCode": "animais = cursor.execute('select * from Animal').fetchall()\nabrigo.close()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.abrigo_db",
+        "documentation": {}
+    },
+    {
+        "label": "PersonagemAnime",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "description": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "peekOfCode": "class PersonagemAnime:\n    def __init__(self, nome, poder, habilidade):\n        self.nome = nome\n        self.poder = poder\n        self.habilidade = habilidade\n    def apresentar(self):\n        print(f\"Olá, eu sou {self.nome}!\")\n        print(f\"Meu poder é {self.poder} e minha habilidade especial é {self.habilidade}.\")\n# Criando objetos para alguns personagens de anime\ngoku = PersonagemAnime(nome=\"Goku\", poder=\"Super Saiyajin\", habilidade=\"Kamehameha\")",
+        "detail": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "goku",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "description": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "peekOfCode": "goku = PersonagemAnime(nome=\"Goku\", poder=\"Super Saiyajin\", habilidade=\"Kamehameha\")\nluffy = PersonagemAnime(nome=\"Luffy\", poder=\"Gomu Gomu no Mi\", habilidade=\"Gear Second\")\nsakura = PersonagemAnime(nome=\"Sakura\", poder=\"Força física\", habilidade=\"Jutsus médicos\")\n# Apresentando os personagens\ngoku.apresentar()\nluffy.apresentar()\nsakura.apresentar()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "luffy",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "description": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "peekOfCode": "luffy = PersonagemAnime(nome=\"Luffy\", poder=\"Gomu Gomu no Mi\", habilidade=\"Gear Second\")\nsakura = PersonagemAnime(nome=\"Sakura\", poder=\"Força física\", habilidade=\"Jutsus médicos\")\n# Apresentando os personagens\ngoku.apresentar()\nluffy.apresentar()\nsakura.apresentar()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "sakura",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "description": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "peekOfCode": "sakura = PersonagemAnime(nome=\"Sakura\", poder=\"Força física\", habilidade=\"Jutsus médicos\")\n# Apresentando os personagens\ngoku.apresentar()\nluffy.apresentar()\nsakura.apresentar()",
+        "detail": "POO-Python.ExemploAdocaoAnimais.construtor",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "class Pessoa:\n    # método construtor inicialização\n    def __init__(self, nome, telefone, endereco):\n        self.nome = nome;\n        self.telefone = telefone;\n        self.endereco = endereco;\n    # método de representação de string\n    def __str__(self):\n        return f'Nome: {self.nome}, \"Telefone: {self.telefone}, \"Endereco: {self.endereco}'\nclass Responsavel(Pessoa): #Herda membros da classe Pessoa",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "Responsavel",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "class Responsavel(Pessoa): #Herda membros da classe Pessoa\n    pass\nclass Parceiro_vet(Pessoa): #Herda membros da classe Pessoa\n    def __init__(self, nome, telefone, especialidade):\n        super(Parceiro_vet, self).__init__(\n            nome=nome, telefone=telefone, endereco=None\n        )\n        self.especialidade = especialidade;\nclass Animal:\n    def __init__(self, nome, especie, raca, idade, cuidados, responsavel):",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "Parceiro_vet",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "class Parceiro_vet(Pessoa): #Herda membros da classe Pessoa\n    def __init__(self, nome, telefone, especialidade):\n        super(Parceiro_vet, self).__init__(\n            nome=nome, telefone=telefone, endereco=None\n        )\n        self.especialidade = especialidade;\nclass Animal:\n    def __init__(self, nome, especie, raca, idade, cuidados, responsavel):\n        self.nome = nome\n        self.especie = especie",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "class Animal:\n    def __init__(self, nome, especie, raca, idade, cuidados, responsavel):\n        self.nome = nome\n        self.especie = especie\n        self.raca = raca\n        self.idade = idade\n        self.cuidados = cuidados;\n        self.responsavel = responsavel\n    @property\n    #Verifica se o animal está disponível",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "Doacao_comida",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "class Doacao_comida:\n    def __init__(self, especie, produto, quantidade):\n        self.especie = especie;\n        self.produto = produto;\n        self.quantidade = quantidade;\nclass Abrigo:\n    def __init__(self, nome):\n        self.nome = nome;\n        self.responsaveis = {}\n        self.animais = {}",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "Abrigo",
+        "kind": 6,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "class Abrigo:\n    def __init__(self, nome):\n        self.nome = nome;\n        self.responsaveis = {}\n        self.animais = {}\n        self.adocoes = [];\n        self.produtos = [];\n        self.parceiros = [];\n    def registrar_tutor(self, responsavel_id, nome, telefone, endereco ):\n        tutor = Responsavel(nome, telefone,endereco);",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa1",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "pessoa1 = Pessoa(\"Carla\", \"84237428\",\"Travessa eduardo Pontes\");\nprint(pessoa1);\nabrigo = Abrigo(\"Cães e gatos City\");\nabrigo.registrar_tutor(1,\"Carolina\", \"9584785\",\"travessa dois amores\");",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "abrigo",
+        "kind": 5,
+        "importPath": "POO-Python.ExemploAdocaoAnimais.main",
+        "description": "POO-Python.ExemploAdocaoAnimais.main",
+        "peekOfCode": "abrigo = Abrigo(\"Cães e gatos City\");\nabrigo.registrar_tutor(1,\"Carolina\", \"9584785\",\"travessa dois amores\");",
+        "detail": "POO-Python.ExemploAdocaoAnimais.main",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "kind": 6,
+        "importPath": "POO-Python.exercicios.Banco",
+        "description": "POO-Python.exercicios.Banco",
+        "peekOfCode": "class Cliente (ABC):\n    def __init__(self, nome_cliente):\n        self.nome_cliente = nome_cliente;\n        self.telefone_cliente ='';\n        self._renda_mensal = 0.0;\n    @property\n    @abstractmethod\n    def sexo(self):\n        pass\nclass Conta(Cliente):",
+        "detail": "POO-Python.exercicios.Banco",
+        "documentation": {}
+    },
+    {
+        "label": "Conta",
+        "kind": 6,
+        "importPath": "POO-Python.exercicios.Banco",
+        "description": "POO-Python.exercicios.Banco",
+        "peekOfCode": "class Conta(Cliente):\n    def __init__(self, nome_cliente):\n        super().__init__(nome_cliente)\n        self.__saldo = 0;\n        self._numero_conta = '';\n        self.lista_saques = [];\n        self.lista_depositos = [];\n        self._sexo = ''\n    @property\n    def saldo(self):",
+        "detail": "POO-Python.exercicios.Banco",
+        "documentation": {}
+    },
+    {
+        "label": "conta",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.Banco",
+        "description": "POO-Python.exercicios.Banco",
+        "peekOfCode": "conta = Conta('Ana Maria');\nconta._numero_conta = '345698';\nconta.sexo = 'Mulher';\nconta.saldo = 500;\nfor i in range(2):\n    conta.depositar(150);\n    conta.sacar(40);\nconta.extrato();",
+        "detail": "POO-Python.exercicios.Banco",
+        "documentation": {}
+    },
+    {
+        "label": "conta._numero_conta",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.Banco",
+        "description": "POO-Python.exercicios.Banco",
+        "peekOfCode": "conta._numero_conta = '345698';\nconta.sexo = 'Mulher';\nconta.saldo = 500;\nfor i in range(2):\n    conta.depositar(150);\n    conta.sacar(40);\nconta.extrato();",
+        "detail": "POO-Python.exercicios.Banco",
+        "documentation": {}
+    },
+    {
+        "label": "conta.sexo",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.Banco",
+        "description": "POO-Python.exercicios.Banco",
+        "peekOfCode": "conta.sexo = 'Mulher';\nconta.saldo = 500;\nfor i in range(2):\n    conta.depositar(150);\n    conta.sacar(40);\nconta.extrato();",
+        "detail": "POO-Python.exercicios.Banco",
+        "documentation": {}
+    },
+    {
+        "label": "conta.saldo",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.Banco",
+        "description": "POO-Python.exercicios.Banco",
+        "peekOfCode": "conta.saldo = 500;\nfor i in range(2):\n    conta.depositar(150);\n    conta.sacar(40);\nconta.extrato();",
+        "detail": "POO-Python.exercicios.Banco",
+        "documentation": {}
+    },
+    {
+        "label": "Carro",
+        "kind": 6,
+        "importPath": "POO-Python.exercicios.Carro",
+        "description": "POO-Python.exercicios.Carro",
+        "peekOfCode": "class Carro:\n    def __init__(self):\n        self.ligado = False;\n        self.cor ='Vermelho';\n        self.modelo = 'Ford';\n        self.velocidade = 0;\n    def ligar(self):\n       self.ligado = True;\n    def desligar(self):\n        self.ligado = False;",
+        "detail": "POO-Python.exercicios.Carro",
+        "documentation": {}
+    },
+    {
+        "label": "carro",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.Carro",
+        "description": "POO-Python.exercicios.Carro",
+        "peekOfCode": "carro = Carro ();\nprint(f'O Carro está ligado: {carro.ligado}');\ncarro.ligar();\nprint(f'O Carro está ligado: {carro.ligado}');\ncarro.desligar();\nprint(f'O Carro está ligado: {carro.ligado}');\ncarro.ligar();\nprint(f'O Carro está ligado: {carro.ligado}');\ncarro.acelerar(10);\n# carro.desligar();",
+        "detail": "POO-Python.exercicios.Carro",
+        "documentation": {}
+    },
+    {
+        "label": "calcular_media",
+        "kind": 2,
+        "importPath": "POO-Python.exercicios.debug",
+        "description": "POO-Python.exercicios.debug",
+        "peekOfCode": "def calcular_media(valores):\n    tamanho = len(valores)\n    soma = sum(valores)\n    media = soma / tamanho\n    return media\ncontinuar = True\nvalores = []\nwhile continuar:\n    valor = input('Digite um número para entrar na sua média ou \"ok\" para calcular o valor:')\n    if valor.lower() == 'ok':",
+        "detail": "POO-Python.exercicios.debug",
+        "documentation": {}
+    },
+    {
+        "label": "continuar",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.debug",
+        "description": "POO-Python.exercicios.debug",
+        "peekOfCode": "continuar = True\nvalores = []\nwhile continuar:\n    valor = input('Digite um número para entrar na sua média ou \"ok\" para calcular o valor:')\n    if valor.lower() == 'ok':\n        continuar = False\n    else:\n        valores.append(float(valor))\nmedia = calcular_media(valores)\nprint('A média calculada para os valores {} foi de {}'.format(valores, media))",
+        "detail": "POO-Python.exercicios.debug",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.debug",
+        "description": "POO-Python.exercicios.debug",
+        "peekOfCode": "valores = []\nwhile continuar:\n    valor = input('Digite um número para entrar na sua média ou \"ok\" para calcular o valor:')\n    if valor.lower() == 'ok':\n        continuar = False\n    else:\n        valores.append(float(valor))\nmedia = calcular_media(valores)\nprint('A média calculada para os valores {} foi de {}'.format(valores, media))",
+        "detail": "POO-Python.exercicios.debug",
+        "documentation": {}
+    },
+    {
+        "label": "media",
+        "kind": 5,
+        "importPath": "POO-Python.exercicios.debug",
+        "description": "POO-Python.exercicios.debug",
+        "peekOfCode": "media = calcular_media(valores)\nprint('A média calculada para os valores {} foi de {}'.format(valores, media))",
+        "detail": "POO-Python.exercicios.debug",
+        "documentation": {}
+    },
+    {
+        "label": "Logavel",
+        "kind": 6,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "class Logavel:\n    def __init__(self):\n        self.nome_da_classe = 'login'\n    def logar(self, mensagem):\n        print('Mensagem da classe ' + self.nome_da_classe + ': ' + mensagem);\nlogin = Logavel();\nprint(login.nome_da_classe)\nlogin.logar('Acesso Negado');\nclass Conexao:\n    def __init__(self):",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "Conexao",
+        "kind": 6,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "class Conexao:\n    def __init__(self):\n        self.servidor ='';\n    def conectar (self):\n        print('Conectando ao banco de dados no servidor:' + self.servidor);\nconect = Conexao();\nconect.servidor='servidor';\nconect.conectar();\nclass MySqlDatabase(Conexao,Logavel):\n    def __init__(self):",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "MySqlDatabase",
+        "kind": 6,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "class MySqlDatabase(Conexao,Logavel):\n    def __init__(self):\n        super().__init__()\n        self.nome_da_classe = 'MySqlDatabase';\n        self.servidor = 'Meu servidor';\ndef framework(objeto):\n    if isinstance(objeto, Conexao):\n        objeto.conectar()\n    if isinstance(objeto, Logavel):\n        mensagem = 'Usuaario autenticado.'",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "framework",
+        "kind": 2,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "def framework(objeto):\n    if isinstance(objeto, Conexao):\n        objeto.conectar()\n    if isinstance(objeto, Logavel):\n        mensagem = 'Usuaario autenticado.'\n        objeto.logar(mensagem)\nconexao_mysql = MySqlDatabase()\nframework(conexao_mysql)",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "login = Logavel();\nprint(login.nome_da_classe)\nlogin.logar('Acesso Negado');\nclass Conexao:\n    def __init__(self):\n        self.servidor ='';\n    def conectar (self):\n        print('Conectando ao banco de dados no servidor:' + self.servidor);\nconect = Conexao();\nconect.servidor='servidor';",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "conect",
+        "kind": 5,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "conect = Conexao();\nconect.servidor='servidor';\nconect.conectar();\nclass MySqlDatabase(Conexao,Logavel):\n    def __init__(self):\n        super().__init__()\n        self.nome_da_classe = 'MySqlDatabase';\n        self.servidor = 'Meu servidor';\ndef framework(objeto):\n    if isinstance(objeto, Conexao):",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "conexao_mysql",
+        "kind": 5,
+        "importPath": "POO-Python.herança.herancaMulti",
+        "description": "POO-Python.herança.herancaMulti",
+        "peekOfCode": "conexao_mysql = MySqlDatabase()\nframework(conexao_mysql)",
+        "detail": "POO-Python.herança.herancaMulti",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "POO-Python.herança.heranca_multipla",
+        "description": "POO-Python.herança.heranca_multipla",
+        "peekOfCode": "class Animal:\n    def __init__(self, nome):\n        self.nome = nome;\n    def fazer_som(self):\n        pass\n    def __str__(self):\n        return f'O nome do animal é: {self.nome}';\ncoelho = Animal('Oracio');\nprint(coelho);\n# Definindo a segunda classe pai",
+        "detail": "POO-Python.herança.heranca_multipla",
+        "documentation": {}
+    },
+    {
+        "label": "Mamifero",
+        "kind": 6,
+        "importPath": "POO-Python.herança.heranca_multipla",
+        "description": "POO-Python.herança.heranca_multipla",
+        "peekOfCode": "class Mamifero:\n    def alimentar_filhotes(self):\n        pass\n# Definindo a classe filha que herda de Animal e Mamifero\nclass Cachorro(Animal, Mamifero):\n    def __init__(self, nome, raca):\n        # Chamando os construtores das classes pai\n        Animal.__init__(self,nome)\n        Mamifero.__init__(self)\n        self.raca = raca;",
+        "detail": "POO-Python.herança.heranca_multipla",
+        "documentation": {}
+    },
+    {
+        "label": "Cachorro",
+        "kind": 6,
+        "importPath": "POO-Python.herança.heranca_multipla",
+        "description": "POO-Python.herança.heranca_multipla",
+        "peekOfCode": "class Cachorro(Animal, Mamifero):\n    def __init__(self, nome, raca):\n        # Chamando os construtores das classes pai\n        Animal.__init__(self,nome)\n        Mamifero.__init__(self)\n        self.raca = raca;\n    def fazer_som(self):\n        return \"Au au\"\n    def alimentar_filhotes(self):\n        return \"cachorro alimentando filhotes\"",
+        "detail": "POO-Python.herança.heranca_multipla",
+        "documentation": {}
+    },
+    {
+        "label": "coelho",
+        "kind": 5,
+        "importPath": "POO-Python.herança.heranca_multipla",
+        "description": "POO-Python.herança.heranca_multipla",
+        "peekOfCode": "coelho = Animal('Oracio');\nprint(coelho);\n# Definindo a segunda classe pai\nclass Mamifero:\n    def alimentar_filhotes(self):\n        pass\n# Definindo a classe filha que herda de Animal e Mamifero\nclass Cachorro(Animal, Mamifero):\n    def __init__(self, nome, raca):\n        # Chamando os construtores das classes pai",
+        "detail": "POO-Python.herança.heranca_multipla",
+        "documentation": {}
+    },
+    {
+        "label": "dog",
+        "kind": 5,
+        "importPath": "POO-Python.herança.heranca_multipla",
+        "description": "POO-Python.herança.heranca_multipla",
+        "peekOfCode": "dog = Cachorro(nome = 'Rex',raca ='Labrador');\n# Acessando métodos da classe pai Animal\nprint(f\"{dog.nome} faz o som: {dog.fazer_som()}\")\n# Acessando métodos da classe pai Mamifero\nprint(dog.alimentar_filhotes())",
+        "detail": "POO-Python.herança.heranca_multipla",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 6,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "class Pessoa:\n    def __init__(self, nome):\n        self._nome = nome;\n        self._tipo = 'Pessoa';\n    def falar_oi(self):\n        print('Oi! Meu nome é :{}'.format(self._nome));\n    def falar_tipo(self):\n        print('Meu tipo é {}'.format(self._tipo));\npessoa = Pessoa('Naira');\npessoa.falar_oi();",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "Estudante",
+        "kind": 6,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "class Estudante(Pessoa): # o nome da classe base vem em parênteses\n    def __init__(self, name, curso):\n        super().__init__(name) # chama o construtor da classe base\n        self._curso = curso\n    def falar_curso(self):\n        print(f'Eu, {self._nome}, estudo o curso \"{self._curso}\"') # A propriedade self._nome é herdada da classe base\n    def falar_tipo(self): # Sobrescreve a função original da classe Pessoa\n        self._tipo = 'Estudante'\n        return super().falar_tipo()\nestudante = Estudante('Yasmin', 'Introdução ao Python')",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "Trabalhador",
+        "kind": 6,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "class Trabalhador(Pessoa): # Trabalhador também herda de Pessoa\n    def __init__(self, nome, profissao):\n        super().__init__(nome) # chama o construtor da classe base\n        self.__profissao = profissao # atributo privado - só pode ser acessado dentro da classe Trabalhador\n        self._tipo = 'Trabalhador'\n    def falar_profissao(self):\n        print(f'Eu, {self._nome}, exerço a profissão \"{self.__profissao}\"')\n    def falar_tipo(self): # Sobrescreve a função original da classe Pessoa\n        return super().falar_tipo()\nclass Professor(Trabalhador): # Professor herda de Trabalhador",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "Professor",
+        "kind": 6,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "class Professor(Trabalhador): # Professor herda de Trabalhador\n    def __init__(self, nome, disciplina):\n        super().__init__(nome, 'Professor') # chama o construtor da classe base\n        self.__disciplina = disciplina\n    def falar_profissao(self):\n        self.__profissao = 'Instrutora' # variáveis privadas não conseguem ser alteradas pela classe derivada\n        return super().falar_profissao()\n    def falar_disciplina(self):\n        print(f'Eu, {self._nome}, dou aulas da disciplina \"{self.__disciplina}\"')\n    def falar_tipo(self): # Sobrescreve a função original da classe Pessoa",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "Humano",
+        "kind": 6,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "class Humano:\n    pass\n# A classe Humano já começa com vários atributos e métodos\nhumano = Humano()\nprint(dir(humano))\nprint()\n# Esses mesmos atributos e métodos existem nas classes que declaramos acima\nprint(dir(professora))\nprint()",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa",
+        "kind": 5,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "pessoa = Pessoa('Naira');\npessoa.falar_oi();\npessoa.falar_tipo();\nprint()\n# A classe estudante é derivada da classe Pessoa\n# Relação é : \"Estudante é uma Pessoa\";\nclass Estudante(Pessoa): # o nome da classe base vem em parênteses\n    def __init__(self, name, curso):\n        super().__init__(name) # chama o construtor da classe base\n        self._curso = curso",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "estudante",
+        "kind": 5,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "estudante = Estudante('Yasmin', 'Introdução ao Python')\nestudante.falar_oi() # o método \"falar_oi\" é herdado da classe base\nestudante.falar_tipo() # o método \"falar_tipo\" é herdado da classe base, e sobrescrito na classe derivada\nestudante.falar_curso()\nprint()\n# Podemos testar se um objeto é de um determinado tipo em tempo de execução com as funções abaixo\nprint('O objeto estudante é uma instância da classe Estudante? ', isinstance(estudante, Estudante))\nprint('O objeto estudante é uma instância da classe Pessoa? ', isinstance(estudante, Pessoa))\nprint('A classe Estudante é uma sub-classe de Pessoa? ', issubclass(Estudante, Pessoa))\nprint('A classe Pessoa é uma sub-classe de Estudante? ', issubclass(Pessoa, Estudante))",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "trabalhadora",
+        "kind": 5,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "trabalhadora = Trabalhador('Beatriz', 'Desenvolvedora')\ntrabalhadora.falar_oi()\ntrabalhadora.falar_tipo()\ntrabalhadora.falar_profissao()\nprint()\nprofessora = Professor('Clarisse', 'Python')\nprofessora.falar_oi()\nprofessora.falar_tipo()\nprofessora.falar_profissao()\nprofessora.falar_disciplina()",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "professora",
+        "kind": 5,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "professora = Professor('Clarisse', 'Python')\nprofessora.falar_oi()\nprofessora.falar_tipo()\nprofessora.falar_profissao()\nprofessora.falar_disciplina()\nprint()\n# Em Python, todos as classes herdam implicitamente da classe object\nclass Humano:\n    pass\n# A classe Humano já começa com vários atributos e métodos",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "humano",
+        "kind": 5,
+        "importPath": "POO-Python.herança.Pessoa",
+        "description": "POO-Python.herança.Pessoa",
+        "peekOfCode": "humano = Humano()\nprint(dir(humano))\nprint()\n# Esses mesmos atributos e métodos existem nas classes que declaramos acima\nprint(dir(professora))\nprint()",
+        "detail": "POO-Python.herança.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "Carro",
+        "kind": 6,
+        "importPath": "POO-Python.modelagem.estacionamento",
+        "description": "POO-Python.modelagem.estacionamento",
+        "peekOfCode": "class Carro:\n    def __init__(self, placa):\n        self.placa = placa\n        self.estacionado = False\n    def estacionar(self):\n        self.estacionado = True\n    def sair_da_vaga(self):\n        self.estacionado = False\nclass Moto:\n    def __init__(self, placa):",
+        "detail": "POO-Python.modelagem.estacionamento",
+        "documentation": {}
+    },
+    {
+        "label": "Moto",
+        "kind": 6,
+        "importPath": "POO-Python.modelagem.estacionamento",
+        "description": "POO-Python.modelagem.estacionamento",
+        "peekOfCode": "class Moto:\n    def __init__(self, placa):\n        self.placa = placa\n        self.estacionado = False\n    def estacionar(self):\n        self.estacionado = True\n    def sair_da_vaga(self):\n        self.estacionado = False\nclass Vaga:\n    def __init__(self, identificador, tipo):",
+        "detail": "POO-Python.modelagem.estacionamento",
+        "documentation": {}
+    },
+    {
+        "label": "Vaga",
+        "kind": 6,
+        "importPath": "POO-Python.modelagem.estacionamento",
+        "description": "POO-Python.modelagem.estacionamento",
+        "peekOfCode": "class Vaga:\n    def __init__(self, identificador, tipo):\n        self.id = identificador\n        self.livre = True\n        if tipo != 'carro' and tipo != 'moto':\n            raise ValueError(f'O tipo de vaga {tipo} não foi reconhecido')\n        self.tipo = tipo\n        self.placa = None\n    def ocupar(self, placa):\n        if self.livre is False:",
+        "detail": "POO-Python.modelagem.estacionamento",
+        "documentation": {}
+    },
+    {
+        "label": "Estacionamento",
+        "kind": 6,
+        "importPath": "POO-Python.modelagem.estacionamento",
+        "description": "POO-Python.modelagem.estacionamento",
+        "peekOfCode": "class Estacionamento:\n    def __init__(self, total_vagas_livres_carro, total_vagas_livres_moto):\n        self.carro_para_vaga = {}\n        self.moto_para_vaga = {}\n        self.total_vagas_livres_carro = total_vagas_livres_carro\n        self.total_vagas_livres_moto = total_vagas_livres_moto\n        self.inicializar_vagas()\n    def inicializar_vagas(self):\n        self.vagas_carro = {} # id da vaga para o objeto de Vaga de carro\n        self.vagas_moto = {} # id da vaga para o objeto de Vaga de moto",
+        "detail": "POO-Python.modelagem.estacionamento",
+        "documentation": {}
+    },
+    {
+        "label": "carros",
+        "kind": 5,
+        "importPath": "POO-Python.modelagem.modelagem",
+        "description": "POO-Python.modelagem.modelagem",
+        "peekOfCode": "carros = []\nfor i in range(10):\n    placa = randint(1000, 9999)\n    carros.append(Carro(placa))\nmotos = []\nfor i in range(20):\n    placa = randint(1000, 9999)\n    motos.append(Moto(placa))\n# Inicializa o estacionamento e imprime seu estado\nestacionamento = Estacionamento(5, 5)",
+        "detail": "POO-Python.modelagem.modelagem",
+        "documentation": {}
+    },
+    {
+        "label": "motos",
+        "kind": 5,
+        "importPath": "POO-Python.modelagem.modelagem",
+        "description": "POO-Python.modelagem.modelagem",
+        "peekOfCode": "motos = []\nfor i in range(20):\n    placa = randint(1000, 9999)\n    motos.append(Moto(placa))\n# Inicializa o estacionamento e imprime seu estado\nestacionamento = Estacionamento(5, 5)\nprint(estacionamento)\n# Estaciona 4 carros\nfor i in range(4):\n    estacionamento.estacionar_carro(carros[i])",
+        "detail": "POO-Python.modelagem.modelagem",
+        "documentation": {}
+    },
+    {
+        "label": "estacionamento",
+        "kind": 5,
+        "importPath": "POO-Python.modelagem.modelagem",
+        "description": "POO-Python.modelagem.modelagem",
+        "peekOfCode": "estacionamento = Estacionamento(5, 5)\nprint(estacionamento)\n# Estaciona 4 carros\nfor i in range(4):\n    estacionamento.estacionar_carro(carros[i])\nprint(estacionamento)\n# Estaciona 6 motos\nfor i in range(6):\n    estacionamento.estacionar_moto(motos[i])\nprint(estacionamento)",
+        "detail": "POO-Python.modelagem.modelagem",
+        "documentation": {}
+    },
+    {
+        "label": "mensagem",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.app",
+        "description": "POO-Python.modulos.app",
+        "peekOfCode": "mensagem = 'Usando versão ' + modulo.versao;\nmodulo.mostrar_mensagem(mensagem);",
+        "detail": "POO-Python.modulos.app",
+        "documentation": {}
+    },
+    {
+        "label": "now",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "now = datetime.now();\nprint(now);\n# importa somente a data atual\nfrom datetime import date;\ndata_atual = date.today();\nprint(data_atual);\n#importa somente a hora atual \nfrom datetime import time;\nhora_atual = datetime.now().time();\nprint(hora_atual);",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "data_atual",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "data_atual = date.today();\nprint(data_atual);\n#importa somente a hora atual \nfrom datetime import time;\nhora_atual = datetime.now().time();\nprint(hora_atual);\n# Formatação de Data/Hora: Você pode formatar objetos datetime em strings usando o método strftime\nfrom datetime import datetime;\nagora = datetime.now();\nformatado = agora.strftime(\"%Y-%m-%d\");",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "hora_atual",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "hora_atual = datetime.now().time();\nprint(hora_atual);\n# Formatação de Data/Hora: Você pode formatar objetos datetime em strings usando o método strftime\nfrom datetime import datetime;\nagora = datetime.now();\nformatado = agora.strftime(\"%Y-%m-%d\");\nprint(formatado);\n# Você pode realizar operações aritméticas com datas e \n# usar objetos timedelta para representar diferenças de tempo:\nfrom datetime import datetime, timedelta",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "agora",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "agora = datetime.now();\nformatado = agora.strftime(\"%Y-%m-%d\");\nprint(formatado);\n# Você pode realizar operações aritméticas com datas e \n# usar objetos timedelta para representar diferenças de tempo:\nfrom datetime import datetime, timedelta\nhoje = datetime.now()\namanha = hoje + timedelta(days=1)\ndiferenca = amanha - hoje\nprint(\"Amanhã:\", amanha)",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "formatado",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "formatado = agora.strftime(\"%Y-%m-%d\");\nprint(formatado);\n# Você pode realizar operações aritméticas com datas e \n# usar objetos timedelta para representar diferenças de tempo:\nfrom datetime import datetime, timedelta\nhoje = datetime.now()\namanha = hoje + timedelta(days=1)\ndiferenca = amanha - hoje\nprint(\"Amanhã:\", amanha)\nprint(\"Diferença de Dias:\", diferenca.days)",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "hoje",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "hoje = datetime.now()\namanha = hoje + timedelta(days=1)\ndiferenca = amanha - hoje\nprint(\"Amanhã:\", amanha)\nprint(\"Diferença de Dias:\", diferenca.days)\nfrom datetime import datetime;\ndata_aniversario = datetime(2024,9,17);\nhoje = datetime.now();\ndiferenca = data_aniversario- hoje;\nprint(f'Faltam {diferenca.days} dias para seu aniversario');",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "amanha",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "amanha = hoje + timedelta(days=1)\ndiferenca = amanha - hoje\nprint(\"Amanhã:\", amanha)\nprint(\"Diferença de Dias:\", diferenca.days)\nfrom datetime import datetime;\ndata_aniversario = datetime(2024,9,17);\nhoje = datetime.now();\ndiferenca = data_aniversario- hoje;\nprint(f'Faltam {diferenca.days} dias para seu aniversario');\nfrom datetime import date;",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "diferenca",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "diferenca = amanha - hoje\nprint(\"Amanhã:\", amanha)\nprint(\"Diferença de Dias:\", diferenca.days)\nfrom datetime import datetime;\ndata_aniversario = datetime(2024,9,17);\nhoje = datetime.now();\ndiferenca = data_aniversario- hoje;\nprint(f'Faltam {diferenca.days} dias para seu aniversario');\nfrom datetime import date;\n# dia é um objeto instancia da classe date",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "data_aniversario",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "data_aniversario = datetime(2024,9,17);\nhoje = datetime.now();\ndiferenca = data_aniversario- hoje;\nprint(f'Faltam {diferenca.days} dias para seu aniversario');\nfrom datetime import date;\n# dia é um objeto instancia da classe date\ndia = date(2024,1,23);\nprint('Dia da semana:', dia.weekday());",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "hoje",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "hoje = datetime.now();\ndiferenca = data_aniversario- hoje;\nprint(f'Faltam {diferenca.days} dias para seu aniversario');\nfrom datetime import date;\n# dia é um objeto instancia da classe date\ndia = date(2024,1,23);\nprint('Dia da semana:', dia.weekday());",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "diferenca",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "diferenca = data_aniversario- hoje;\nprint(f'Faltam {diferenca.days} dias para seu aniversario');\nfrom datetime import date;\n# dia é um objeto instancia da classe date\ndia = date(2024,1,23);\nprint('Dia da semana:', dia.weekday());",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "dia",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.date_time",
+        "description": "POO-Python.modulos.date_time",
+        "peekOfCode": "dia = date(2024,1,23);\nprint('Dia da semana:', dia.weekday());",
+        "detail": "POO-Python.modulos.date_time",
+        "documentation": {}
+    },
+    {
+        "label": "imprimir_core",
+        "kind": 2,
+        "importPath": "POO-Python.modulos.funcoes_cores",
+        "description": "POO-Python.modulos.funcoes_cores",
+        "peekOfCode": "def imprimir_cores (texto, nivel):\n    if nivel.lower() == 'info':\n        print(colorama.Fore.LIGHTBLUE_EX+ 'Info:', end='');\n        print(colorama.Style.RESET_ALL+texto);\n    elif nivel.lower() == 'aviso':\n        print(colorama.Fore.YELLOW+ 'Aviso:');\n        print(colorama.Style.RESET_ALL+texto);\n    elif nivel.lower() == 'erro':\n        print(colorama.Fore.RED+ 'Erro:', end='');\n        print(colorama.Style.RESET_ALL+texto);",
+        "detail": "POO-Python.modulos.funcoes_cores",
+        "documentation": {}
+    },
+    {
+        "label": "name_user",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.funcoes_cores",
+        "description": "POO-Python.modulos.funcoes_cores",
+        "peekOfCode": "name_user = 'Dori';\ndef imprimir_cores (texto, nivel):\n    if nivel.lower() == 'info':\n        print(colorama.Fore.LIGHTBLUE_EX+ 'Info:', end='');\n        print(colorama.Style.RESET_ALL+texto);\n    elif nivel.lower() == 'aviso':\n        print(colorama.Fore.YELLOW+ 'Aviso:');\n        print(colorama.Style.RESET_ALL+texto);\n    elif nivel.lower() == 'erro':\n        print(colorama.Fore.RED+ 'Erro:', end='');",
+        "detail": "POO-Python.modulos.funcoes_cores",
+        "documentation": {}
+    },
+    {
+        "label": "imprimir_frase",
+        "kind": 2,
+        "importPath": "POO-Python.modulos.funcoes_log",
+        "description": "POO-Python.modulos.funcoes_log",
+        "peekOfCode": "def imprimir_frase(texto, nivel):\n    if nivel == 'info':\n        print(f'[INFO] {texto}')\n    elif nivel == 'alerta':\n        print (f'[ALERTA]{texto}')\n    elif nivel == 'erro':\n        print(f'[ERRO]{texto}')",
+        "detail": "POO-Python.modulos.funcoes_log",
+        "documentation": {}
+    },
+    {
+        "label": "name_user",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.funcoes_log",
+        "description": "POO-Python.modulos.funcoes_log",
+        "peekOfCode": "name_user = 'Nemo';\ndef imprimir_frase(texto, nivel):\n    if nivel == 'info':\n        print(f'[INFO] {texto}')\n    elif nivel == 'alerta':\n        print (f'[ALERTA]{texto}')\n    elif nivel == 'erro':\n        print(f'[ERRO]{texto}')",
+        "detail": "POO-Python.modulos.funcoes_log",
+        "documentation": {}
+    },
+    {
+        "label": "mostrar_mensagem",
+        "kind": 2,
+        "importPath": "POO-Python.modulos.modulo",
+        "description": "POO-Python.modulos.modulo",
+        "peekOfCode": "def mostrar_mensagem(texto):\n    print(texto);\nimport funcoes_cores;\nfuncoes_cores.imprimir_cores(f'Bem vinda, {funcoes_cores.name_user}!','aviso');",
+        "detail": "POO-Python.modulos.modulo",
+        "documentation": {}
+    },
+    {
+        "label": "versao",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.modulo",
+        "description": "POO-Python.modulos.modulo",
+        "peekOfCode": "versao = '0.1.1';\ndef mostrar_mensagem(texto):\n    print(texto);\nimport funcoes_cores;\nfuncoes_cores.imprimir_cores(f'Bem vinda, {funcoes_cores.name_user}!','aviso');",
+        "detail": "POO-Python.modulos.modulo",
+        "documentation": {}
+    },
+    {
+        "label": "cardapio",
+        "kind": 2,
+        "importPath": "POO-Python.modulos.variavel_local",
+        "description": "POO-Python.modulos.variavel_local",
+        "peekOfCode": "def cardapio():\n    comida = 'hamburguer';\n    global bebida;\n    bebida = 'suco';\n    # para identificar a variavel suco como\n    # variavel global e nao uma nova variavel usamos \n    # palavra reservada global\n    print(f'Exemplo variavel local: {comida}');\n    print(f'Exemplo variavel global: {bebida}');\ncardapio();",
+        "detail": "POO-Python.modulos.variavel_local",
+        "documentation": {}
+    },
+    {
+        "label": "bebida",
+        "kind": 5,
+        "importPath": "POO-Python.modulos.variavel_local",
+        "description": "POO-Python.modulos.variavel_local",
+        "peekOfCode": "bebida = 'refrigerante';\ndef cardapio():\n    comida = 'hamburguer';\n    global bebida;\n    bebida = 'suco';\n    # para identificar a variavel suco como\n    # variavel global e nao uma nova variavel usamos \n    # palavra reservada global\n    print(f'Exemplo variavel local: {comida}');\n    print(f'Exemplo variavel global: {bebida}');",
+        "detail": "POO-Python.modulos.variavel_local",
+        "documentation": {}
+    },
+    {
+        "label": "Humano",
+        "kind": 6,
+        "importPath": "POO-Python.quiz.Humano",
+        "description": "POO-Python.quiz.Humano",
+        "peekOfCode": "class Humano:\n    def falar_oi(self, nome):\n        self.__nome = nome;\n        print(f'Oi, meu nome é {self.__nome}')\n    @property\n    def nome(self):\n        return self.__nome\n    @nome.setter\n    def nome(self, novo_nome):\n        self.__nome = novo_nome",
+        "detail": "POO-Python.quiz.Humano",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa",
+        "kind": 5,
+        "importPath": "POO-Python.quiz.Humano",
+        "description": "POO-Python.quiz.Humano",
+        "peekOfCode": "pessoa = Humano()\npessoa.falar_oi('Carol');",
+        "detail": "POO-Python.quiz.Humano",
+        "documentation": {}
+    },
+    {
+        "label": "Pessoa",
+        "kind": 6,
+        "importPath": "POO-Python.quiz.Pessoa",
+        "description": "POO-Python.quiz.Pessoa",
+        "peekOfCode": "class Pessoa:\n    def falar_oi(self):\n        self.nome = 'Carol';\n        print(f'Oi, meu nome é {self.nome}');\npessoa = Pessoa();\npessoa.falar_oi();",
+        "detail": "POO-Python.quiz.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "pessoa",
+        "kind": 5,
+        "importPath": "POO-Python.quiz.Pessoa",
+        "description": "POO-Python.quiz.Pessoa",
+        "peekOfCode": "pessoa = Pessoa();\npessoa.falar_oi();",
+        "detail": "POO-Python.quiz.Pessoa",
+        "documentation": {}
+    },
+    {
+        "label": "sync_task",
+        "kind": 2,
+        "importPath": "programacao-Assincrona.sync",
+        "description": "programacao-Assincrona.sync",
+        "peekOfCode": "def sync_task(task_id):\n    print(f\"Começando a tarefa {task_id}\")\n    time.sleep(2)\n    print(f\"Terminando a tarefa {task_id}\")\nstart_time = time.time();\nsync_task(1)\nsync_task(2)\nsync_task(3)\nprint(f\"Tempo decorrido: {time.time() - start_time:.2f}s\")",
+        "detail": "programacao-Assincrona.sync",
+        "documentation": {}
+    },
+    {
+        "label": "start_time",
+        "kind": 5,
+        "importPath": "programacao-Assincrona.sync",
+        "description": "programacao-Assincrona.sync",
+        "peekOfCode": "start_time = time.time();\nsync_task(1)\nsync_task(2)\nsync_task(3)\nprint(f\"Tempo decorrido: {time.time() - start_time:.2f}s\")",
+        "detail": "programacao-Assincrona.sync",
+        "documentation": {}
+    },
+    {
+        "label": "conexao",
+        "kind": 5,
+        "importPath": "SQL.conexao",
+        "description": "SQL.conexao",
+        "peekOfCode": "conexao = sqlite3.connect('banco')\ncursor = conexao.cursor()\n# cursor.execute('CREATE TABLE usuarios(id INT, nome VARCHAR(100), endereco VARCHAR(100), email VARCHAR(100) )');\n# cursor.execute('ALTER TABLE usuarios RENAME TO usuario');\n# cursor.execute('ALTER TABLE usuario ADD COLUMN telefoni INT');\n# cursor.execute('ALTER TABLE usuario RENAME COLUMN telefoni TO telefone');\n# cursor.execute('CREATE TABLE produtos (id INT, descricao VARCHAR(200))');\n# cursor.execute('DROP TABLE produtos')\n# cursor.execute('INSERT INTO usuario (id,nome,endereco,email,telefone) VALUES(1,\"Carolina Sanches\",\"novo buritizal\",\"carol@gmail.com\",4582369)');\n# cursor.execute('INSERT INTO usuario (id,nome,endereco,email,telefone) VALUES(5,\"Ana Beatriz\",\"santana\",\"ana@gmail.com\",45658)');",
+        "detail": "SQL.conexao",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "SQL.conexao",
+        "description": "SQL.conexao",
+        "peekOfCode": "cursor = conexao.cursor()\n# cursor.execute('CREATE TABLE usuarios(id INT, nome VARCHAR(100), endereco VARCHAR(100), email VARCHAR(100) )');\n# cursor.execute('ALTER TABLE usuarios RENAME TO usuario');\n# cursor.execute('ALTER TABLE usuario ADD COLUMN telefoni INT');\n# cursor.execute('ALTER TABLE usuario RENAME COLUMN telefoni TO telefone');\n# cursor.execute('CREATE TABLE produtos (id INT, descricao VARCHAR(200))');\n# cursor.execute('DROP TABLE produtos')\n# cursor.execute('INSERT INTO usuario (id,nome,endereco,email,telefone) VALUES(1,\"Carolina Sanches\",\"novo buritizal\",\"carol@gmail.com\",4582369)');\n# cursor.execute('INSERT INTO usuario (id,nome,endereco,email,telefone) VALUES(5,\"Ana Beatriz\",\"santana\",\"ana@gmail.com\",45658)');\n# conexao.execute('DELETE FROM usuario where id=1');",
+        "detail": "SQL.conexao",
+        "documentation": {}
+    },
+    {
+        "label": "dados",
+        "kind": 5,
+        "importPath": "SQL.conexao",
+        "description": "SQL.conexao",
+        "peekOfCode": "dados = cursor.execute('SELECT nome, id FROM usuario GROUP BY nome HAVING id>3')\nfor usuario in dados:\n    print(usuario)\nconexao.commit()\nconexao.close",
+        "detail": "SQL.conexao",
+        "documentation": {}
+    },
+    {
+        "label": "conexao",
+        "kind": 5,
+        "importPath": "SQL.exercicio",
+        "description": "SQL.exercicio",
+        "peekOfCode": "conexao = sqlite3.connect('banco');\ncursor = conexao.cursor();\ndados = [\n    (1, 'Maria Julia',15,'Técnico em informática'),\n    (2, 'Natanael Costa', 20, 'Engenharia'),\n    (3, 'Marcio José', 21, 'Engenharia'),\n    (4, 'Lucas Felipe', 5, 'pré - escola'),\n    (5, 'Monkey D luffy', 10, 'ensino fundamental')\n]\n# cursor.execute('CREATE TABLE alunos (id INT PRIMARY KEY, nome VARCHAR(100), idade INT, curso VARCHAR(100))');",
+        "detail": "SQL.exercicio",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "SQL.exercicio",
+        "description": "SQL.exercicio",
+        "peekOfCode": "cursor = conexao.cursor();\ndados = [\n    (1, 'Maria Julia',15,'Técnico em informática'),\n    (2, 'Natanael Costa', 20, 'Engenharia'),\n    (3, 'Marcio José', 21, 'Engenharia'),\n    (4, 'Lucas Felipe', 5, 'pré - escola'),\n    (5, 'Monkey D luffy', 10, 'ensino fundamental')\n]\n# cursor.execute('CREATE TABLE alunos (id INT PRIMARY KEY, nome VARCHAR(100), idade INT, curso VARCHAR(100))');\n# cursor.executemany('INSERT INTO alunos (id, nome, idade, curso) VALUES(?,?,?,?)', dados)",
+        "detail": "SQL.exercicio",
+        "documentation": {}
+    },
+    {
+        "label": "dados",
+        "kind": 5,
+        "importPath": "SQL.exercicio",
+        "description": "SQL.exercicio",
+        "peekOfCode": "dados = [\n    (1, 'Maria Julia',15,'Técnico em informática'),\n    (2, 'Natanael Costa', 20, 'Engenharia'),\n    (3, 'Marcio José', 21, 'Engenharia'),\n    (4, 'Lucas Felipe', 5, 'pré - escola'),\n    (5, 'Monkey D luffy', 10, 'ensino fundamental')\n]\n# cursor.execute('CREATE TABLE alunos (id INT PRIMARY KEY, nome VARCHAR(100), idade INT, curso VARCHAR(100))');\n# cursor.executemany('INSERT INTO alunos (id, nome, idade, curso) VALUES(?,?,?,?)', dados)\n# dados = cursor.execute('SELECT * FROM alunos') ",
+        "detail": "SQL.exercicio",
+        "documentation": {}
+    },
+    {
+        "label": "tabela",
+        "kind": 5,
+        "importPath": "SQL.exercicio",
+        "description": "SQL.exercicio",
+        "peekOfCode": "tabela = cursor.execute('SELECT clientes.nome AS nome_cliente, compras.produto, compras.valor FROM compras INNER JOIN clientes ON compras.cliente_id == clientes.id ')\nfor cliente in tabela:\n    print(cliente);\nconexao.commit();\nconexao.close();",
+        "detail": "SQL.exercicio",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 5,
+        "importPath": "SQL.Juncoes",
+        "description": "SQL.Juncoes",
+        "peekOfCode": "connect = sqlite3.connect('banco');\ncursor = connect.cursor();\n# # Inserir vários conjuntos de dados de uma vez\n# dados = [\n#     (1, 'Ana Beatriz','Rua E,145','ana@gmail.com',145896),\n#     (2, 'Fernando Silva', 'Rua A, 123', 'fernando@gmail.com',78898),\n#     (3, 'Mariana Souza', 'Rua B, 10', 'souza@gmail.com',4558898),\n#     (4, 'Jonas Rafael', 'Rua C, 700', 'jonas@gmail.com',445566)\n# ]\n# cursor.executemany('INSERT INTO usuario (id, nome, endereco, email, telefone) VALUES (?, ?, ?, ?,?)', dados)",
+        "detail": "SQL.Juncoes",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "SQL.Juncoes",
+        "description": "SQL.Juncoes",
+        "peekOfCode": "cursor = connect.cursor();\n# # Inserir vários conjuntos de dados de uma vez\n# dados = [\n#     (1, 'Ana Beatriz','Rua E,145','ana@gmail.com',145896),\n#     (2, 'Fernando Silva', 'Rua A, 123', 'fernando@gmail.com',78898),\n#     (3, 'Mariana Souza', 'Rua B, 10', 'souza@gmail.com',4558898),\n#     (4, 'Jonas Rafael', 'Rua C, 700', 'jonas@gmail.com',445566)\n# ]\n# cursor.executemany('INSERT INTO usuario (id, nome, endereco, email, telefone) VALUES (?, ?, ?, ?,?)', dados)\n# #INNER JOIN",
+        "detail": "SQL.Juncoes",
+        "documentation": {}
+    },
+    {
+        "label": "dados",
+        "kind": 5,
+        "importPath": "SQL.Juncoes",
+        "description": "SQL.Juncoes",
+        "peekOfCode": "dados = cursor.execute('SELECT * FROM usuario FULL JOIN gerentes ON usuario.id ==gerentes.id')\nfor usuario in dados:\n    print(usuario);\nconnect.commit()\ncursor.close();",
+        "detail": "SQL.Juncoes",
+        "documentation": {}
+    },
+    {
+        "label": "conexao",
+        "kind": 5,
+        "importPath": "SQL.subconsultas",
+        "description": "SQL.subconsultas",
+        "peekOfCode": "conexao = sqlite3.connect('banco');\ncursor = conexao.cursor();\n# SUBCONSULTAS\n# selecione todos os dados do usuario que que o nome tambem estiver na tabela gerentes\ndados = cursor.execute('SELECT * FROM usuario WHERE nome IN (SELECT nome FROM gerentes)');\nfor usuario in dados:\n    print(usuario)\nconexao.commit();\nconexao.close();",
+        "detail": "SQL.subconsultas",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "SQL.subconsultas",
+        "description": "SQL.subconsultas",
+        "peekOfCode": "cursor = conexao.cursor();\n# SUBCONSULTAS\n# selecione todos os dados do usuario que que o nome tambem estiver na tabela gerentes\ndados = cursor.execute('SELECT * FROM usuario WHERE nome IN (SELECT nome FROM gerentes)');\nfor usuario in dados:\n    print(usuario)\nconexao.commit();\nconexao.close();",
+        "detail": "SQL.subconsultas",
+        "documentation": {}
+    },
+    {
+        "label": "dados",
+        "kind": 5,
+        "importPath": "SQL.subconsultas",
+        "description": "SQL.subconsultas",
+        "peekOfCode": "dados = cursor.execute('SELECT * FROM usuario WHERE nome IN (SELECT nome FROM gerentes)');\nfor usuario in dados:\n    print(usuario)\nconexao.commit();\nconexao.close();",
+        "detail": "SQL.subconsultas",
+        "documentation": {}
+    }
+]
